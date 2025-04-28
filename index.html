@@ -37,7 +37,11 @@
       </thead>
       <tbody>
         <tr v-for="item in paginatedCountries" :key="item.country_en" class="border-t hover:bg-gray-50 cursor-pointer" @click="selectCountry(item)">
-          <td class="p-3">{{ item.country_cn }} ({{ item.country_en }})</td>
+          <td class="p-3 flex items-center gap-2">
+  <img v-if="item.country_code" :src="'https://flagcdn.com/w40/' + item.country_code + '.png'" alt="Flag" class="w-6 h-4 object-cover rounded">
+  {{ item.country_cn }} ({{ item.country_en }})
+</td>
+
           <td class="p-3">{{ item.agency_cn }} ({{ item.agency_en }})</td>
           <td class="p-3">
             <a v-if="item.has_official_website === '是'" :href="item.website" target="_blank" class="text-green-600 hover:underline">访问官网</a>
