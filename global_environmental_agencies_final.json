@@ -1,2243 +1,2492 @@
 [
   {
-    "country_en":"Aruba",
-    "country_cn":"阿鲁巴",
-    "agency_en":"Directorate of Nature and Environment (DNM)",
-    "agency_cn":"自然与环境管理局",
-    "website":"http:\/\/www.dnmaruba.org",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Afghanistan",
-    "country_cn":"阿富汗",
-    "agency_en":"National Environmental Protection Agency (NEPA)",
-    "agency_cn":"国家环境保护局",
-    "website":"https:\/\/www.nepa.gov.af",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Angola",
-    "country_cn":"安哥拉",
-    "agency_en":"Ministry of Environment (MINAMB)",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.minamb.gov.ao",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Anguilla",
-    "country_cn":"安圭拉",
-    "agency_en":"Department of Natural Resources (DNaR)",
-    "agency_cn":"自然资源部",
-    "website":"https:\/\/naturalresources.gov.ai\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Åland Islands",
-    "country_cn":"奥兰群岛",
-    "agency_en":"Government of Åland",
-    "agency_cn":"奥兰政府",
-    "website":"https:\/\/www.regeringen.ax\/",
-    "region":"欧洲（芬兰自治区）",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Albania",
-    "country_cn":"阿尔巴尼亚",
-    "agency_en":"Ministry of Tourism and Environment",
-    "agency_cn":"旅游与环境部",
-    "website":"https:\/\/turizmi.gov.al\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Andorra",
-    "country_cn":"安道尔",
-    "agency_en":"Ministry of Environment, Agriculture and Sustainability",
-    "agency_cn":"环境、农业与可持续发展部",
-    "website":"https:\/\/www.govern.ad\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Antigua and Barbuda",
-    "country_cn":"安提瓜和巴布达",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/environment.gov.ag\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Argentina",
-    "country_cn":"阿根廷",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.argentina.gob.ar\/ambiente",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Armenia",
-    "country_cn":"亚美尼亚",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.env.am\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Australia",
-    "country_cn":"澳大利亚",
-    "agency_en":"Department of Climate Change, Energy, the Environment and Water (DCCEEW)",
-    "agency_cn":"气候变化、能源、环境与水资源部",
-    "website":"https:\/\/www.dcceew.gov.au\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Austria",
-    "country_cn":"奥地利",
-    "agency_en":"Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology",
-    "agency_cn":"气候行动、环境、能源、交通、创新与技术联邦部",
-    "website":"https:\/\/www.bmk.gv.at\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Azerbaijan",
-    "country_cn":"阿塞拜疆",
-    "agency_en":"Ministry of Ecology and Natural Resources",
-    "agency_cn":"生态与自然资源部",
-    "website":"https:\/\/eco.gov.az\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bahamas",
-    "country_cn":"巴哈马",
-    "agency_en":"Ministry of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/www.bahamas.gov.bs\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bahrain",
-    "country_cn":"巴林",
-    "agency_en":"Supreme Council for Environment",
-    "agency_cn":"最高环境委员会",
-    "website":"https:\/\/www.sce.gov.bh\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bangladesh",
-    "country_cn":"孟加拉国",
-    "agency_en":"Ministry of Environment, Forest and Climate Change",
-    "agency_cn":"环境、森林与气候变化部",
-    "website":"https:\/\/moefcc.gov.bd\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Barbados",
-    "country_cn":"巴巴多斯",
-    "agency_en":"Ministry of Environment and National Beautification",
-    "agency_cn":"环境与国家美化部",
-    "website":"https:\/\/mesep.gov.bb\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Belarus",
-    "country_cn":"白俄罗斯",
-    "agency_en":"Ministry of Natural Resources and Environmental Protection",
-    "agency_cn":"自然资源与环境保护部",
-    "website":"http:\/\/www.minpriroda.gov.by\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Belgium",
-    "country_cn":"比利时",
-    "agency_en":"Federal Public Service Health, Food Chain Safety and Environment",
-    "agency_cn":"联邦公共卫生、食品链安全与环境服务局",
-    "website":"https:\/\/www.health.belgium.be\/en\/environment",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Belize",
-    "country_cn":"伯利兹",
-    "agency_en":"Ministry of Sustainable Development, Climate Change and Disaster Risk Management",
-    "agency_cn":"可持续发展、气候变化与灾害风险管理部",
-    "website":"https:\/\/msdi.gov.bz\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Benin",
-    "country_cn":"贝宁",
-    "agency_en":"Ministry of Living Environment and Sustainable Development",
-    "agency_cn":"生活环境与可持续发展部",
-    "website":"https:\/\/www.environnement.bj\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bermuda",
-    "country_cn":"百慕大",
-    "agency_en":"Department of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/www.gov.bm\/department\/environment-and-natural-resources",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bhutan",
-    "country_cn":"不丹",
-    "agency_en":"National Environment Commission",
-    "agency_cn":"国家环境委员会",
-    "website":"http:\/\/www.nec.gov.bt\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bolivia",
-    "country_cn":"玻利维亚",
-    "agency_en":"Ministry of Environment and Water",
-    "agency_cn":"环境与水资源部",
-    "website":"https:\/\/www.mmaya.gob.bo\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bosnia and Herzegovina",
-    "country_cn":"波黑",
-    "agency_en":"Ministry of Foreign Trade and Economic Relations - Environment Sector",
-    "agency_cn":"外交与经济关系部-环境部门",
-    "website":"http:\/\/www.mvteo.gov.ba\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Botswana",
-    "country_cn":"博茨瓦纳",
-    "agency_en":"Ministry of Environment and Tourism",
-    "agency_cn":"环境与旅游部",
-    "website":"https:\/\/www.mewt.gov.bw\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Brazil",
-    "country_cn":"巴西",
-    "agency_en":"Ministry of the Environment and Climate Change",
-    "agency_cn":"环境与气候变化部",
-    "website":"https:\/\/www.gov.br\/mma\/pt-br",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Brunei",
-    "country_cn":"文莱",
-    "agency_en":"Department of Environment, Parks and Recreation (JASTRe)",
-    "agency_cn":"环境、公园与休闲部",
-    "website":"http:\/\/www.env.gov.bn\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bulgaria",
-    "country_cn":"保加利亚",
-    "agency_en":"Ministry of Environment and Water",
-    "agency_cn":"环境与水资源部",
-    "website":"https:\/\/www.moew.government.bg\/en\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Burkina Faso",
-    "country_cn":"布基纳法索",
-    "agency_en":"Ministry of Environment, Green Economy and Climate Change",
-    "agency_cn":"环境、绿色经济与气候变化部",
-    "website":"https:\/\/www.environnement.gov.bf\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Burundi",
-    "country_cn":"布隆迪",
-    "agency_en":"Ministry of Environment, Agriculture and Livestock",
-    "agency_cn":"环境、农业与畜牧业部",
-    "website":"http:\/\/www.environnement.gov.bi\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cabo Verde",
-    "country_cn":"佛得角",
-    "agency_en":"Ministry of Agriculture and Environment",
-    "agency_cn":"农业与环境部",
-    "website":"https:\/\/www.governo.cv\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cambodia",
-    "country_cn":"柬埔寨",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.moeys.gov.kh\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cameroon",
-    "country_cn":"喀麦隆",
-    "agency_en":"Ministry of Environment, Nature Protection and Sustainable Development",
-    "agency_cn":"环境、自然保护与可持续发展部",
-    "website":"https:\/\/www.minepded.gov.cm\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Canada",
-    "country_cn":"加拿大",
-    "agency_en":"Environment and Climate Change Canada (ECCC)",
-    "agency_cn":"加拿大环境与气候变化部",
-    "website":"https:\/\/www.canada.ca\/en\/environment-climate-change.html",
-    "region":"北美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cayman Islands",
-    "country_cn":"开曼群岛",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/doe.ky\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Central African Republic",
-    "country_cn":"中非共和国",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.facebook.com\/MinistereDelEnvironnementCentrafrique\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Chad",
-    "country_cn":"乍得",
-    "agency_en":"Ministry of Environment, Water and Fisheries",
-    "agency_cn":"环境、水与渔业部",
-    "website":"https:\/\/www.environnement.gouv.td\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Chile",
-    "country_cn":"智利",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/mma.gob.cl\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"China",
-    "country_cn":"中国",
-    "agency_en":"Ministry of Ecology and Environment",
-    "agency_cn":"生态环境部",
-    "website":"http:\/\/www.mee.gov.cn\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Colombia",
-    "country_cn":"哥伦比亚",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.minambiente.gov.co\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Comoros",
-    "country_cn":"科摩罗",
-    "agency_en":"Ministry of Agriculture, Fisheries, Environment, Tourism and Handicrafts",
-    "agency_cn":"农业、渔业、环境、旅游与手工业部",
-    "website":"http:\/\/www.comores-online.com\/mwezinet\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Congo",
-    "country_cn":"刚果（布）",
-    "agency_en":"Ministry of Environment, Sustainable Development and the Congo Basin",
-    "agency_cn":"环境、可持续发展与刚果盆地部",
-    "website":"https:\/\/www.environnement.gouv.cg\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cook Islands",
-    "country_cn":"库克群岛",
-    "agency_en":"National Environment Service",
-    "agency_cn":"国家环境局",
-    "website":"https:\/\/environment.gov.ck\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Costa Rica",
-    "country_cn":"哥斯达黎加",
-    "agency_en":"Ministry of Environment and Energy (MINAE)",
-    "agency_cn":"环境与能源部",
-    "website":"https:\/\/www.minae.go.cr\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Croatia",
-    "country_cn":"克罗地亚",
-    "agency_en":"Ministry of Economy and Sustainable Development",
-    "agency_cn":"经济与可持续发展部",
-    "website":"https:\/\/mzoe.gov.hr\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cuba",
-    "country_cn":"古巴",
-    "agency_en":"Ministry of Science, Technology and Environment",
-    "agency_cn":"科学、技术与环境部",
-    "website":"https:\/\/www.citma.gob.cu\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cyprus",
-    "country_cn":"塞浦路斯",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.moa.gov.cy\/moa\/environment\/environment.nsf\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Czech Republic",
-    "country_cn":"捷克",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.mzp.cz\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Denmark",
-    "country_cn":"丹麦",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/en.mfvm.dk\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Djibouti",
-    "country_cn":"吉布提",
-    "agency_en":"Ministry of Urban Planning, Environment and Tourism",
-    "agency_cn":"城市规划、环境与旅游部",
-    "website":"http:\/\/www.presidence.dj\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Dominica",
-    "country_cn":"多米尼克",
-    "agency_en":"Ministry of Environment, Rural Modernization and Kalinago Upliftment",
-    "agency_cn":"环境、乡村现代化与加勒比原住民事务部",
-    "website":"https:\/\/dominica.gov.dm\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Dominican Republic",
-    "country_cn":"多米尼加共和国",
-    "agency_en":"Ministry of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/ambiente.gob.do\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"DR Congo",
-    "country_cn":"刚果（金）",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.environnement.gouv.cd\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Ecuador",
-    "country_cn":"厄瓜多尔",
-    "agency_en":"Ministry of Environment, Water and Ecological Transition",
-    "agency_cn":"环境、水资源与生态转型部",
-    "website":"https:\/\/www.ambiente.gob.ec\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Egypt",
-    "country_cn":"埃及",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.eeaa.gov.eg\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"El Salvador",
-    "country_cn":"萨尔瓦多",
-    "agency_en":"Ministry of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/www.marn.gob.sv\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Equatorial Guinea",
-    "country_cn":"赤道几内亚",
-    "agency_en":"Ministry of Agriculture, Livestock, Forests and Environment",
-    "agency_cn":"农业、畜牧业、林业与环境部",
-    "website":"http:\/\/www.guineaecuatorialpress.com\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Eritrea",
-    "country_cn":"厄立特里亚",
-    "agency_en":"Ministry of Land, Water and Environment",
-    "agency_cn":"土地、水与环境部",
-    "website":"http:\/\/www.shabait.com\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Estonia",
-    "country_cn":"爱沙尼亚",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/envir.ee\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Eswatini",
-    "country_cn":"埃斯瓦蒂尼",
-    "agency_en":"Ministry of Tourism and Environmental Affairs",
-    "agency_cn":"旅游与环境事务部",
-    "website":"https:\/\/www.gov.sz\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Ethiopia",
-    "country_cn":"埃塞俄比亚",
-    "agency_en":"Environment, Forest and Climate Change Commission",
-    "agency_cn":"环境、森林与气候变化委员会",
-    "website":"http:\/\/www.efccc.gov.et\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Fiji",
-    "country_cn":"斐济",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.environment.gov.fj\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Finland",
-    "country_cn":"芬兰",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/ym.fi\/en\/frontpage",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"France",
-    "country_cn":"法国",
-    "agency_en":"Ministry for the Ecological Transition and Territorial Cohesion",
-    "agency_cn":"生态转型与领土凝聚部",
-    "website":"https:\/\/www.ecologie.gouv.fr\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Gabon",
-    "country_cn":"加蓬",
-    "agency_en":"Ministry of Environment and Forests",
-    "agency_cn":"环境与森林部",
-    "website":"http:\/\/www.environnement.gouv.ga\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Gambia",
-    "country_cn":"冈比亚",
-    "agency_en":"Ministry of Environment, Climate Change and Natural Resources",
-    "agency_cn":"环境、气候变化与自然资源部",
-    "website":"http:\/\/www.meccnrd.gov.gm\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Georgia",
-    "country_cn":"格鲁吉亚",
-    "agency_en":"Ministry of Environmental Protection and Agriculture",
-    "agency_cn":"环境保护与农业部",
-    "website":"https:\/\/mepa.gov.ge\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Germany",
-    "country_cn":"德国",
-    "agency_en":"Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection",
-    "agency_cn":"联邦环境、自然保护、核安全与消费者保护部",
-    "website":"https:\/\/www.bmuv.de\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Ghana",
-    "country_cn":"加纳",
-    "agency_en":"Ministry of Environment, Science, Technology and Innovation",
-    "agency_cn":"环境、科学、技术与创新部",
-    "website":"https:\/\/mesti.gov.gh\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Greece",
-    "country_cn":"希腊",
-    "agency_en":"Ministry of Environment and Energy",
-    "agency_cn":"环境与能源部",
-    "website":"https:\/\/ypen.gr\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Greenland",
-    "country_cn":"格陵兰",
-    "agency_en":"Ministry of Nature, Environment and Research",
-    "agency_cn":"自然、环境与研究部",
-    "website":"https:\/\/naalakkersuisut.gl\/",
-    "region":"北美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Grenada",
-    "country_cn":"格林纳达",
-    "agency_en":"Ministry of Climate Resilience, the Environment and Renewable Energy",
-    "agency_cn":"气候韧性、环境与可再生能源部",
-    "website":"https:\/\/gov.gd\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guatemala",
-    "country_cn":"危地马拉",
-    "agency_en":"Ministry of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/www.marn.gob.gt\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guinea",
-    "country_cn":"几内亚",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/medd.gov.gn\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guinea-Bissau",
-    "country_cn":"几内亚比绍",
-    "agency_en":"Ministry of Environment and Biodiversity",
-    "agency_cn":"环境与生物多样性部",
-    "website":"https:\/\/www.governogw.org\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guyana",
-    "country_cn":"圭亚那",
-    "agency_en":"Ministry of Agriculture - Environment Protection Agency",
-    "agency_cn":"农业部-环境保护局",
-    "website":"https:\/\/www.epaguyana.org\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Haiti",
-    "country_cn":"海地",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.mde-h.gouv.ht\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Honduras",
-    "country_cn":"洪都拉斯",
-    "agency_en":"Secretariat of Natural Resources and Environment",
-    "agency_cn":"自然资源与环境秘书处",
-    "website":"http:\/\/www.miambiente.gob.hn\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Hungary",
-    "country_cn":"匈牙利",
-    "agency_en":"Ministry of Agriculture - Environment Protection",
-    "agency_cn":"农业部-环境保护",
-    "website":"https:\/\/kormany.hu\/en\/ministry-of-agriculture",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Iceland",
-    "country_cn":"冰岛",
-    "agency_en":"Ministry for the Environment, Energy and Climate",
-    "agency_cn":"环境、能源与气候部",
-    "website":"https:\/\/www.government.is\/ministries\/ministry-for-the-environment-energy-and-climate\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"India",
-    "country_cn":"印度",
-    "agency_en":"Ministry of Environment, Forest and Climate Change",
-    "agency_cn":"环境、森林与气候变化部",
-    "website":"https:\/\/moef.gov.in\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Indonesia",
-    "country_cn":"印度尼西亚",
-    "agency_en":"Ministry of Environment and Forestry",
-    "agency_cn":"环境与林业部",
-    "website":"https:\/\/www.menlhk.go.id\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Iran",
-    "country_cn":"伊朗",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境署",
-    "website":"https:\/\/www.doe.ir\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Iraq",
-    "country_cn":"伊拉克",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.moen.gov.iq\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Ireland",
-    "country_cn":"爱尔兰",
-    "agency_en":"Department of the Environment, Climate and Communications",
-    "agency_cn":"环境、气候与通信部",
-    "website":"https:\/\/www.gov.ie\/en\/organisation\/department-of-the-environment-climate-and-communications\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Israel",
-    "country_cn":"以色列",
-    "agency_en":"Ministry of Environmental Protection",
-    "agency_cn":"环境保护部",
-    "website":"https:\/\/www.gov.il\/en\/departments\/ministry_of_environmental_protection",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Italy",
-    "country_cn":"意大利",
-    "agency_en":"Ministry of the Environment and Energy Security",
-    "agency_cn":"环境与能源安全部",
-    "website":"https:\/\/www.mase.gov.it\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Jamaica",
-    "country_cn":"牙买加",
-    "agency_en":"Ministry of Economic Growth and Job Creation - Environment Division",
-    "agency_cn":"经济增长与就业创造部-环境司",
-    "website":"https:\/\/megjc.gov.jm\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Japan",
-    "country_cn":"日本",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境省",
-    "website":"https:\/\/www.env.go.jp\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Jordan",
-    "country_cn":"约旦",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.moenv.gov.jo\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Kazakhstan",
-    "country_cn":"哈萨克斯坦",
-    "agency_en":"Ministry of Ecology and Natural Resources",
-    "agency_cn":"生态与自然资源部",
-    "website":"https:\/\/www.gov.kz\/memleket\/entities\/ecogeo",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Kenya",
-    "country_cn":"肯尼亚",
-    "agency_en":"Ministry of Environment, Climate Change and Forestry",
-    "agency_cn":"环境、气候变化与林业部",
-    "website":"https:\/\/environment.go.ke\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Kiribati",
-    "country_cn":"基里巴斯",
-    "agency_en":"Ministry of Environment, Lands and Agricultural Development",
-    "agency_cn":"环境、土地与农业发展部",
-    "website":"http:\/\/www.melad.gov.ki\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Kuwait",
-    "country_cn":"科威特",
-    "agency_en":"Environment Public Authority",
-    "agency_cn":"环境公共事务局",
-    "website":"https:\/\/www.epa.org.kw\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Kyrgyzstan",
-    "country_cn":"吉尔吉斯斯坦",
-    "agency_en":"State Agency for Environmental Protection and Forestry",
-    "agency_cn":"国家环境保护与林业局",
-    "website":"http:\/\/nature.gov.kg\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Laos",
-    "country_cn":"老挝",
-    "agency_en":"Ministry of Natural Resources and Environment",
-    "agency_cn":"自然资源与环境部",
-    "website":"https:\/\/www.monre.gov.la\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Latvia",
-    "country_cn":"拉脱维亚",
-    "agency_en":"Ministry of Environmental Protection and Regional Development",
-    "agency_cn":"环境保护与区域发展部",
-    "website":"https:\/\/www.varam.gov.lv\/en",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Lebanon",
-    "country_cn":"黎巴嫩",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.moe.gov.lb\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Lesotho",
-    "country_cn":"莱索托",
-    "agency_en":"Ministry of Tourism, Environment and Culture",
-    "agency_cn":"旅游、环境与文化部",
-    "website":"https:\/\/www.gov.ls\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Liberia",
-    "country_cn":"利比里亚",
-    "agency_en":"Environmental Protection Agency",
-    "agency_cn":"环境保护局",
-    "website":"https:\/\/epa.gov.lr\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Libya",
-    "country_cn":"利比亚",
-    "agency_en":"Environment General Authority",
-    "agency_cn":"环境总局",
-    "website":"http:\/\/www.e-ga.org.ly\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Liechtenstein",
-    "country_cn":"列支敦士登",
-    "agency_en":"Office of Environment",
-    "agency_cn":"环境局",
-    "website":"https:\/\/www.llv.li\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Lithuania",
-    "country_cn":"立陶宛",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/am.lrv.lt\/en\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Luxembourg",
-    "country_cn":"卢森堡",
-    "agency_en":"Ministry of the Environment, Climate and Sustainable Development",
-    "agency_cn":"环境、气候与可持续发展部",
-    "website":"https:\/\/environnement.public.lu\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Madagascar",
-    "country_cn":"马达加斯加",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.environnement.gov.mg\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Malawi",
-    "country_cn":"马拉维",
-    "agency_en":"Ministry of Natural Resources and Climate Change",
-    "agency_cn":"自然资源与气候变化部",
-    "website":"https:\/\/www.nrcm.gov.mw\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Malaysia",
-    "country_cn":"马来西亚",
-    "agency_en":"Ministry of Natural Resources, Environment and Climate Change",
-    "agency_cn":"自然资源、环境与气候变化部",
-    "website":"https:\/\/www.nrecc.gov.my\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Maldives",
-    "country_cn":"马尔代夫",
-    "agency_en":"Ministry of Environment, Climate Change and Technology",
-    "agency_cn":"环境、气候变化与技术部",
-    "website":"https:\/\/www.environment.gov.mv\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mali",
-    "country_cn":"马里",
-    "agency_en":"Ministry of Environment, Sanitation and Sustainable Development",
-    "agency_cn":"环境、卫生与可持续发展部",
-    "website":"https:\/\/www.environnement.gouv.ml\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Malta",
-    "country_cn":"马耳他",
-    "agency_en":"Ministry for the Environment, Energy and Enterprise",
-    "agency_cn":"环境、能源与企业部",
-    "website":"https:\/\/environment.gov.mt\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Marshall Islands",
-    "country_cn":"马绍尔群岛",
-    "agency_en":"Office of Environmental Planning and Policy Coordination",
-    "agency_cn":"环境规划与政策协调办公室",
-    "website":"https:\/\/www.rmiocit.org\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mauritania",
-    "country_cn":"毛里塔尼亚",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.environnement.gov.mr\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mauritius",
-    "country_cn":"毛里求斯",
-    "agency_en":"Ministry of Environment, Solid Waste Management and Climate Change",
-    "agency_cn":"环境、固体废物管理与气候变化部",
-    "website":"https:\/\/environment.govmu.org\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mexico",
-    "country_cn":"墨西哥",
-    "agency_en":"Secretariat of Environment and Natural Resources (SEMARNAT)",
-    "agency_cn":"环境与自然资源秘书处",
-    "website":"https:\/\/www.gob.mx\/semarnat",
-    "region":"北美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Micronesia",
-    "country_cn":"密克罗尼西亚",
-    "agency_en":"Department of Environment, Climate Change and Emergency Management",
-    "agency_cn":"环境、气候变化与应急管理部",
-    "website":"https:\/\/www.fsmgov.org\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Moldova",
-    "country_cn":"摩尔多瓦",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/mediu.gov.md\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Monaco",
-    "country_cn":"摩纳哥",
-    "agency_en":"Department of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/en.gouv.mc\/Government-Institutions\/The-Government\/Ministry-of-Equipment-Environment-and-Urban-Planning\/Department-of-the-Environment",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mongolia",
-    "country_cn":"蒙古",
-    "agency_en":"Ministry of Environment and Tourism",
-    "agency_cn":"环境与旅游部",
-    "website":"http:\/\/www.mne.mn\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Montenegro",
-    "country_cn":"黑山",
-    "agency_en":"Ministry of Ecology, Spatial Planning and Urbanism",
-    "agency_cn":"生态、空间规划与城市发展部",
-    "website":"https:\/\/www.gov.me\/en\/mepg",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Morocco",
-    "country_cn":"摩洛哥",
-    "agency_en":"Ministry of Energy Transition and Sustainable Development",
-    "agency_cn":"能源转型与可持续发展部",
-    "website":"http:\/\/www.mtedd.gov.ma\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mozambique",
-    "country_cn":"莫桑比克",
-    "agency_en":"Ministry of Land and Environment",
-    "agency_cn":"土地与环境部",
-    "website":"http:\/\/www.mta.gov.mz\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Myanmar",
-    "country_cn":"缅甸",
-    "agency_en":"Ministry of Natural Resources and Environmental Conservation",
-    "agency_cn":"自然资源与环境保护部",
-    "website":"http:\/\/www.moecaf.gov.mm\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Namibia",
-    "country_cn":"纳米比亚",
-    "agency_en":"Ministry of Environment, Forestry and Tourism",
-    "agency_cn":"环境、林业与旅游部",
-    "website":"http:\/\/www.met.gov.na\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Nauru",
-    "country_cn":"瑙鲁",
-    "agency_en":"Department of Commerce, Industry and Environment",
-    "agency_cn":"商务、工业与环境部",
-    "website":"https:\/\/www.naurugov.nr\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Nepal",
-    "country_cn":"尼泊尔",
-    "agency_en":"Ministry of Forests and Environment",
-    "agency_cn":"森林与环境部",
-    "website":"http:\/\/www.mofe.gov.np\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Netherlands",
-    "country_cn":"荷兰",
-    "agency_en":"Ministry of Infrastructure and Water Management",
-    "agency_cn":"基础设施与水管理部",
-    "website":"https:\/\/www.government.nl\/ministries\/ministry-of-infrastructure-and-water-management",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"New Zealand",
-    "country_cn":"新西兰",
-    "agency_en":"Ministry for the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/environment.govt.nz\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Nicaragua",
-    "country_cn":"尼加拉瓜",
-    "agency_en":"Ministry of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/marena.gob.ni\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Niger",
-    "country_cn":"尼日尔",
-    "agency_en":"Ministry of Environment and the Fight Against Desertification",
-    "agency_cn":"环境与防治荒漠化部",
-    "website":"https:\/\/www.environnement.gouv.ne\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Nigeria",
-    "country_cn":"尼日利亚",
-    "agency_en":"Federal Ministry of Environment",
-    "agency_cn":"联邦环境部",
-    "website":"https:\/\/environment.gov.ng\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"North Korea",
-    "country_cn":"朝鲜",
-    "agency_en":"Ministry of Land and Environment Protection",
-    "agency_cn":"国土与环境保护部",
-    "website":"无官网",
-    "region":"亚洲",
-    "has_official_website":"否"
-  },
-  {
-    "country_en":"North Macedonia",
-    "country_cn":"北马其顿",
-    "agency_en":"Ministry of Environment and Physical Planning",
-    "agency_cn":"环境与物理规划部",
-    "website":"https:\/\/www.moepp.gov.mk\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Norway",
-    "country_cn":"挪威",
-    "agency_en":"Ministry of Climate and Environment",
-    "agency_cn":"气候与环境部",
-    "website":"https:\/\/www.regjeringen.no\/en\/dep\/kld\/id668\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Oman",
-    "country_cn":"阿曼",
-    "agency_en":"Environment Authority",
-    "agency_cn":"环境局",
-    "website":"https:\/\/www.ea.gov.om\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Pakistan",
-    "country_cn":"巴基斯坦",
-    "agency_en":"Ministry of Climate Change and Environmental Coordination",
-    "agency_cn":"气候变化与环境协调部",
-    "website":"https:\/\/www.mocc.gov.pk\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Palau",
-    "country_cn":"帕劳",
-    "agency_en":"Ministry of Natural Resources, Environment and Tourism",
-    "agency_cn":"自然资源、环境与旅游部",
-    "website":"https:\/\/www.palauoek.com\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Palestine",
-    "country_cn":"巴勒斯坦",
-    "agency_en":"Environment Quality Authority",
-    "agency_cn":"环境质量局",
-    "website":"http:\/\/www.environment.pna.ps\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Panama",
-    "country_cn":"巴拿马",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.miambiente.gob.pa\/",
-    "region":"中美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Papua New Guinea",
-    "country_cn":"巴布亚新几内亚",
-    "agency_en":"Conservation and Environment Protection Authority",
-    "agency_cn":"保护与环境保护局",
-    "website":"https:\/\/www.cepapng.gov.pg\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Paraguay",
-    "country_cn":"巴拉圭",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"https:\/\/www.mades.gov.py\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Peru",
-    "country_cn":"秘鲁",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.gob.pe\/minam",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Philippines",
-    "country_cn":"菲律宾",
-    "agency_en":"Department of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/www.denr.gov.ph\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Poland",
-    "country_cn":"波兰",
-    "agency_en":"Ministry of Climate and Environment",
-    "agency_cn":"气候与环境部",
-    "website":"https:\/\/www.gov.pl\/web\/climate",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Portugal",
-    "country_cn":"葡萄牙",
-    "agency_en":"Ministry of Environment and Climate Action",
-    "agency_cn":"环境与气候行动部",
-    "website":"https:\/\/www.portugal.gov.pt\/en\/gc22\/government\/ministries\/ministry-of-environment-and-climate-action",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Qatar",
-    "country_cn":"卡塔尔",
-    "agency_en":"Ministry of Environment and Climate Change",
-    "agency_cn":"环境与气候变化部",
-    "website":"https:\/\/www.mme.gov.qa\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Republic of the Congo",
-    "country_cn":"刚果共和国",
-    "agency_en":"Ministry of Environment, Sustainable Development and the Congo Basin",
-    "agency_cn":"环境、可持续发展与刚果盆地部",
-    "website":"https:\/\/www.environnement.gouv.cg\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Romania",
-    "country_cn":"罗马尼亚",
-    "agency_en":"Ministry of Environment, Waters and Forests",
-    "agency_cn":"环境、水与森林部",
-    "website":"http:\/\/www.mmediu.ro\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Russia",
-    "country_cn":"俄罗斯",
-    "agency_en":"Ministry of Natural Resources and Environment",
-    "agency_cn":"自然资源与环境部",
-    "website":"http:\/\/www.mnr.gov.ru\/",
-    "region":"欧洲\/亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Rwanda",
-    "country_cn":"卢旺达",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.environment.gov.rw\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Kitts and Nevis",
-    "country_cn":"圣基茨和尼维斯",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.environment.gov.kn\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Lucia",
-    "country_cn":"圣卢西亚",
-    "agency_en":"Department of Sustainable Development",
-    "agency_cn":"可持续发展部",
-    "website":"https:\/\/www.govt.lc\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Vincent and the Grenadines",
-    "country_cn":"圣文森特和格林纳丁斯",
-    "agency_en":"Ministry of Health, Wellness and the Environment",
-    "agency_cn":"健康、福利与环境部",
-    "website":"http:\/\/health.gov.vc\/health\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Samoa",
-    "country_cn":"萨摩亚",
-    "agency_en":"Ministry of Natural Resources and Environment",
-    "agency_cn":"自然资源与环境部",
-    "website":"https:\/\/www.mnre.gov.ws\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"San Marino",
-    "country_cn":"圣马力诺",
-    "agency_en":"Ministry of Territory and Environment",
-    "agency_cn":"国土与环境部",
-    "website":"http:\/\/www.ambiente.sm\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sao Tome and Principe",
-    "country_cn":"圣多美和普林西比",
-    "agency_en":"Directorate of Environment",
-    "agency_cn":"环境局",
-    "website":"http:\/\/www.gov.st\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saudi Arabia",
-    "country_cn":"沙特阿拉伯",
-    "agency_en":"Ministry of Environment, Water and Agriculture",
-    "agency_cn":"环境、水与农业部",
-    "website":"https:\/\/www.mewa.gov.sa\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Senegal",
-    "country_cn":"塞内加尔",
-    "agency_en":"Ministry of Environment and Sustainable Development",
-    "agency_cn":"环境与可持续发展部",
-    "website":"http:\/\/www.environnement.gouv.sn\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Serbia",
-    "country_cn":"塞尔维亚",
-    "agency_en":"Ministry of Environmental Protection",
-    "agency_cn":"环境保护部",
-    "website":"https:\/\/www.ekologija.gov.rs\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Seychelles",
-    "country_cn":"塞舌尔",
-    "agency_en":"Ministry of Agriculture, Climate Change and Environment",
-    "agency_cn":"农业、气候变化与环境部",
-    "website":"http:\/\/www.meecc.gov.sc\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sierra Leone",
-    "country_cn":"塞拉利昂",
-    "agency_en":"Environment Protection Agency",
-    "agency_cn":"环境保护局",
-    "website":"https:\/\/epa.gov.sl\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Singapore",
-    "country_cn":"新加坡",
-    "agency_en":"Ministry of Sustainability and the Environment",
-    "agency_cn":"可持续发展与环境部",
-    "website":"https:\/\/www.mse.gov.sg\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Slovakia",
-    "country_cn":"斯洛伐克",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.minzp.sk\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Slovenia",
-    "country_cn":"斯洛文尼亚",
-    "agency_en":"Ministry of Natural Resources and Spatial Planning",
-    "agency_cn":"自然资源与空间规划部",
-    "website":"https:\/\/www.gov.si\/en\/state-authorities\/ministries\/ministry-of-natural-resources-and-spatial-planning\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Solomon Islands",
-    "country_cn":"所罗门群岛",
-    "agency_en":"Ministry of Environment, Climate Change, Disaster Management and Meteorology",
-    "agency_cn":"环境、气候变化、灾害管理与气象部",
-    "website":"http:\/\/www.mecdm.gov.sb\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Somalia",
-    "country_cn":"索马里",
-    "agency_en":"Ministry of Environment and Climate Change",
-    "agency_cn":"环境与气候变化部",
-    "website":"https:\/\/moecc.gov.so\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"South Africa",
-    "country_cn":"南非",
-    "agency_en":"Department of Forestry, Fisheries and the Environment",
-    "agency_cn":"林业、渔业与环境部",
-    "website":"https:\/\/www.dffe.gov.za\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"South Korea",
-    "country_cn":"韩国",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/me.go.kr\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"South Sudan",
-    "country_cn":"南苏丹",
-    "agency_en":"Ministry of Environment and Forestry",
-    "agency_cn":"环境与林业部",
-    "website":"http:\/\/grss-moe.org\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Spain",
-    "country_cn":"西班牙",
-    "agency_en":"Ministry for the Ecological Transition and the Demographic Challenge",
-    "agency_cn":"生态转型与人口挑战部",
-    "website":"https:\/\/www.miteco.gob.es\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sri Lanka",
-    "country_cn":"斯里兰卡",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.environmentmin.gov.lk\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sudan",
-    "country_cn":"苏丹",
-    "agency_en":"Higher Council for Environment and Natural Resources",
-    "agency_cn":"环境与自然资源高级委员会",
-    "website":"http:\/\/www.hcenr.gov.sd\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Suriname",
-    "country_cn":"苏里南",
-    "agency_en":"Ministry of Spatial Planning and Environment",
-    "agency_cn":"空间规划与环境部",
-    "website":"https:\/\/www.gov.sr\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sweden",
-    "country_cn":"瑞典",
-    "agency_en":"Ministry of Climate and Enterprise",
-    "agency_cn":"气候与企业部",
-    "website":"https:\/\/www.government.se\/government-of-sweden\/ministry-of-climate-and-enterprise\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Switzerland",
-    "country_cn":"瑞士",
-    "agency_en":"Federal Office for the Environment (FOEN)",
-    "agency_cn":"联邦环境局",
-    "website":"https:\/\/www.bafu.admin.ch\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Syria",
-    "country_cn":"叙利亚",
-    "agency_en":"Ministry of Local Administration and Environment",
-    "agency_cn":"地方行政与环境部",
-    "website":"http:\/\/www.mola.gov.sy\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Taiwan",
-    "country_cn":"台湾",
-    "agency_en":"Environmental Protection Administration",
-    "agency_cn":"环境保护署",
-    "website":"https:\/\/www.epa.gov.tw\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Tajikistan",
-    "country_cn":"塔吉克斯坦",
-    "agency_en":"Committee for Environmental Protection",
-    "agency_cn":"环境保护委员会",
-    "website":"http:\/\/www.tajnature.tj\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Tanzania",
-    "country_cn":"坦桑尼亚",
-    "agency_en":"Vice President’s Office - Union and Environment",
-    "agency_cn":"副总统办公室-联盟与环境事务",
-    "website":"https:\/\/www.vpo.go.tz\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Thailand",
-    "country_cn":"泰国",
-    "agency_en":"Ministry of Natural Resources and Environment",
-    "agency_cn":"自然资源与环境部",
-    "website":"https:\/\/www.mnre.go.th\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Timor-Leste",
-    "country_cn":"东帝汶",
-    "agency_en":"Secretary of State for the Environment",
-    "agency_cn":"环境国务秘书处",
-    "website":"https:\/\/www.gpm.tl\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Togo",
-    "country_cn":"多哥",
-    "agency_en":"Ministry of Environment and Forest Resources",
-    "agency_cn":"环境与森林资源部",
-    "website":"https:\/\/www.environnement.gouv.tg\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Tonga",
-    "country_cn":"汤加",
-    "agency_en":"Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications",
-    "agency_cn":"气象、能源、信息、灾害管理、环境、气候变化与通信部",
-    "website":"http:\/\/www.met.gov.to\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Trinidad and Tobago",
-    "country_cn":"特立尼达和多巴哥",
-    "agency_en":"Ministry of Planning and Development - Environmental Policy and Planning Division",
-    "agency_cn":"规划与发展部-环境政策与规划司",
-    "website":"https:\/\/www.planning.gov.tt\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Tunisia",
-    "country_cn":"突尼斯",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.environnement.tn\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Turkey",
-    "country_cn":"土耳其",
-    "agency_en":"Ministry of Environment, Urbanization and Climate Change",
-    "agency_cn":"环境、城市化与气候变化部",
-    "website":"https:\/\/csb.gov.tr\/",
-    "region":"亚洲\/欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Turkmenistan",
-    "country_cn":"土库曼斯坦",
-    "agency_en":"Ministry of Agriculture and Environmental Protection",
-    "agency_cn":"农业与环境保护部",
-    "website":"http:\/\/www.minagri.gov.tm\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Tuvalu",
-    "country_cn":"图瓦卢",
-    "agency_en":"Ministry of Public Works, Infrastructure, Environment, Labour, Meteorology and Disaster",
-    "agency_cn":"公共工程、基础设施、环境、劳动、气象与灾害部",
-    "website":"http:\/\/www.tuvalu-government.tv\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Uganda",
-    "country_cn":"乌干达",
-    "agency_en":"Ministry of Water and Environment",
-    "agency_cn":"水资源与环境部",
-    "website":"https:\/\/www.mwe.go.ug\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Ukraine",
-    "country_cn":"乌克兰",
-    "agency_en":"Ministry of Environmental Protection and Natural Resources",
-    "agency_cn":"环境保护与自然资源部",
-    "website":"https:\/\/mepr.gov.ua\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"United Arab Emirates",
-    "country_cn":"阿拉伯联合酋长国",
-    "agency_en":"Ministry of Climate Change and Environment",
-    "agency_cn":"气候变化与环境部",
-    "website":"https:\/\/www.moccae.gov.ae\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"United Kingdom",
-    "country_cn":"英国",
-    "agency_en":"Department for Environment, Food and Rural Affairs (DEFRA)",
-    "agency_cn":"环境、食品与农村事务部",
-    "website":"https:\/\/www.gov.uk\/government\/organisations\/department-for-environment-food-rural-affairs",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"United States",
-    "country_cn":"美国",
-    "agency_en":"United States Environmental Protection Agency (EPA)",
-    "agency_cn":"美国环境保护署",
-    "website":"https:\/\/www.epa.gov\/",
-    "region":"北美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Uruguay",
-    "country_cn":"乌拉圭",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.gub.uy\/ministerio-ambiente\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Uzbekistan",
-    "country_cn":"乌兹别克斯坦",
-    "agency_en":"State Committee for Ecology and Environmental Protection",
-    "agency_cn":"生态与环境保护国家委员会",
-    "website":"http:\/\/eco.gov.uz\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Vanuatu",
-    "country_cn":"瓦努阿图",
-    "agency_en":"Ministry of Climate Change Adaptation, Meteorology, Geo-Hazards, Environment and Energy",
-    "agency_cn":"气候变化适应、气象、地质灾害、环境与能源部",
-    "website":"https:\/\/www.mcc.gov.vu\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Vatican City",
-    "country_cn":"梵蒂冈",
-    "agency_en":"Governorate of Vatican City State - Directorate of Infrastructure and Services",
-    "agency_cn":"梵蒂冈城国政府-基础设施与服务局",
-    "website":"http:\/\/www.vatican.va\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Venezuela",
-    "country_cn":"委内瑞拉",
-    "agency_en":"Ministry of Ecosocialism",
-    "agency_cn":"生态社会主义部",
-    "website":"http:\/\/www.minec.gob.ve\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Vietnam",
-    "country_cn":"越南",
-    "agency_en":"Ministry of Natural Resources and Environment",
-    "agency_cn":"自然资源与环境部",
-    "website":"http:\/\/www.monre.gov.vn\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Yemen",
-    "country_cn":"也门",
-    "agency_en":"Ministry of Water and Environment",
-    "agency_cn":"水资源与环境部",
-    "website":"http:\/\/www.mowe-ye.org\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Zambia",
-    "country_cn":"赞比亚",
-    "agency_en":"Ministry of Green Economy and Environment",
-    "agency_cn":"绿色经济与环境部",
-    "website":"https:\/\/www.mgee.gov.zm\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Zimbabwe",
-    "country_cn":"津巴布韦",
-    "agency_en":"Ministry of Environment, Climate, Tourism and Hospitality Industry",
-    "agency_cn":"环境、气候、旅游与酒店业部",
-    "website":"http:\/\/www.mecthi.gov.zw\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Abkhazia",
-    "country_cn":"阿布哈兹",
-    "agency_en":"State Committee for Ecology and Environmental Protection",
-    "agency_cn":"生态与环境保护国家委员会",
-    "website":"无官网",
-    "region":"亚洲",
-    "has_official_website":"否"
-  },
-  {
-    "country_en":"Kosovo",
-    "country_cn":"科索沃",
-    "agency_en":"Ministry of Environment, Spatial Planning and Infrastructure",
-    "agency_cn":"环境、空间规划与基础设施部",
-    "website":"https:\/\/mmphi.rks-gov.net\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Northern Cyprus",
-    "country_cn":"北塞浦路斯",
-    "agency_en":"Ministry of Tourism, Culture, Youth and Environment",
-    "agency_cn":"旅游、文化、青年与环境部",
-    "website":"http:\/\/www.mtc.gov.ct.tr\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Somaliland",
-    "country_cn":"索马里兰",
-    "agency_en":"Ministry of Environment and Rural Development",
-    "agency_cn":"环境与农村发展部",
-    "website":"https:\/\/moerd.govsomaliland.org\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"South Ossetia",
-    "country_cn":"南奥塞梯",
-    "agency_en":"Committee for Environmental Protection",
-    "agency_cn":"环境保护委员会",
-    "website":"无官网",
-    "region":"亚洲",
-    "has_official_website":"否"
-  },
-  {
-    "country_en":"Western Sahara",
-    "country_cn":"西撒哈拉",
-    "agency_en":"Ministry of Environment",
-    "agency_cn":"环境部",
-    "website":"无官网",
-    "region":"非洲",
-    "has_official_website":"否"
-  },
-  {
-    "country_en":"Cook Islands",
-    "country_cn":"库克群岛",
-    "agency_en":"National Environment Service",
-    "agency_cn":"国家环境局",
-    "website":"https:\/\/environment.gov.ck\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Niue",
-    "country_cn":"纽埃",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.environment.gov.nu\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Tokelau",
-    "country_cn":"托克劳",
-    "agency_en":"Department of Natural Resources",
-    "agency_cn":"自然资源部",
-    "website":"https:\/\/www.tokelau.org.nz\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guam",
-    "country_cn":"关岛",
-    "agency_en":"Guam Environmental Protection Agency",
-    "agency_cn":"关岛环境保护局",
-    "website":"https:\/\/epa.guam.gov\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Puerto Rico",
-    "country_cn":"波多黎各",
-    "agency_en":"Puerto Rico Department of Natural and Environmental Resources",
-    "agency_cn":"波多黎各自然与环境资源部",
-    "website":"https:\/\/www.drna.pr.gov\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"New Caledonia",
-    "country_cn":"新喀里多尼亚",
-    "agency_en":"Government of New Caledonia - Environment Directorate",
-    "agency_cn":"新喀里多尼亚政府-环境局",
-    "website":"https:\/\/gouv.nc\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"French Polynesia",
-    "country_cn":"法属波利尼西亚",
-    "agency_en":"Ministry of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.service-public.pf\/direction-de-lenvironnement\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Greenland",
-    "country_cn":"格陵兰",
-    "agency_en":"Ministry of Nature, Environment and Research",
-    "agency_cn":"自然、环境与研究部",
-    "website":"https:\/\/naalakkersuisut.gl\/",
-    "region":"北美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Hong Kong",
-    "country_cn":"香港",
-    "agency_en":"Environmental Protection Department",
-    "agency_cn":"环境保护署",
-    "website":"https:\/\/www.epd.gov.hk\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Macau",
-    "country_cn":"澳门",
-    "agency_en":"Environmental Protection Bureau",
-    "agency_cn":"环境保护局",
-    "website":"https:\/\/www.dspa.gov.mo\/",
-    "region":"亚洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Faroe Islands",
-    "country_cn":"法罗群岛",
-    "agency_en":"Environment Agency",
-    "agency_cn":"环境局",
-    "website":"https:\/\/www.umhvoryrki.fo\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Aruba",
-    "country_cn":"阿鲁巴",
-    "agency_en":"Directorate of Nature and Environment (DNM)",
-    "agency_cn":"自然与环境管理局",
-    "website":"http:\/\/www.dnmaruba.org\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bermuda",
-    "country_cn":"百慕大",
-    "agency_en":"Department of Environment and Natural Resources",
-    "agency_cn":"环境与自然资源部",
-    "website":"https:\/\/www.gov.bm\/department\/environment-and-natural-resources",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Cayman Islands",
-    "country_cn":"开曼群岛",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/doe.ky\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"British Virgin Islands",
-    "country_cn":"英属维尔京群岛",
-    "agency_en":"Conservation and Fisheries Department",
-    "agency_cn":"保护与渔业部",
-    "website":"http:\/\/www.bvi.gov.vg\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Montserrat",
-    "country_cn":"蒙特塞拉特",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"http:\/\/www.environment.gov.ms\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Anguilla",
-    "country_cn":"安圭拉",
-    "agency_en":"Department of Natural Resources",
-    "agency_cn":"自然资源部",
-    "website":"https:\/\/naturalresources.gov.ai\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Falkland Islands",
-    "country_cn":"福克兰群岛",
-    "agency_en":"Environmental Planning Department",
-    "agency_cn":"环境规划部",
-    "website":"https:\/\/www.falklands.gov.fk\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Gibraltar",
-    "country_cn":"直布罗陀",
-    "agency_en":"Department of the Environment, Heritage and Climate Change",
-    "agency_cn":"环境、遗产与气候变化部",
-    "website":"https:\/\/www.gibraltar.gov.gi\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Isle of Man",
-    "country_cn":"马恩岛",
-    "agency_en":"Department of Environment, Food and Agriculture",
-    "agency_cn":"环境、食品与农业部",
-    "website":"https:\/\/www.gov.im\/defa\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Jersey",
-    "country_cn":"泽西岛",
-    "agency_en":"Department of the Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.gov.je\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guernsey",
-    "country_cn":"根西岛",
-    "agency_en":"Committee for the Environment and Infrastructure",
-    "agency_cn":"环境与基础设施委员会",
-    "website":"https:\/\/www.gov.gg\/",
-    "region":"欧洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Martinique",
-    "country_cn":"马提尼克",
-    "agency_en":"Directorate of Environment, Planning and Housing",
-    "agency_cn":"环境、规划与住房局",
-    "website":"http:\/\/www.martinique.developpement-durable.gouv.fr\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Guadeloupe",
-    "country_cn":"瓜德罗普",
-    "agency_en":"Directorate of Environment, Planning and Housing",
-    "agency_cn":"环境、规划与住房局",
-    "website":"http:\/\/www.guadeloupe.developpement-durable.gouv.fr\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Réunion",
-    "country_cn":"留尼汪",
-    "agency_en":"Directorate of Environment, Planning and Housing",
-    "agency_cn":"环境、规划与住房局",
-    "website":"http:\/\/www.reunion.developpement-durable.gouv.fr\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Mayotte",
-    "country_cn":"马约特",
-    "agency_en":"Directorate of Environment, Planning and Housing",
-    "agency_cn":"环境、规划与住房局",
-    "website":"http:\/\/www.mayotte.developpement-durable.gouv.fr\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Pierre and Miquelon",
-    "country_cn":"圣皮埃尔和密克隆",
-    "agency_en":"Territorial Environment Service",
-    "agency_cn":"地方环境局",
-    "website":"https:\/\/www.saint-pierre-et-miquelon.gouv.fr\/",
-    "region":"北美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Wallis and Futuna",
-    "country_cn":"瓦利斯和富图纳",
-    "agency_en":"Environment Service",
-    "agency_cn":"环境局",
-    "website":"https:\/\/www.wallis-et-futuna.gouv.fr\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Helena",
-    "country_cn":"圣赫勒拿",
-    "agency_en":"Environment, Natural Resources and Planning Directorate",
-    "agency_cn":"环境、自然资源与规划局",
-    "website":"https:\/\/www.sainthelena.gov.sh\/",
-    "region":"非洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"French Guiana",
-    "country_cn":"法属圭亚那",
-    "agency_en":"Directorate of Environment, Planning and Housing",
-    "agency_cn":"环境、规划与住房局",
-    "website":"http:\/\/www.guyane.developpement-durable.gouv.fr\/",
-    "region":"南美洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"American Samoa",
-    "country_cn":"美属萨摩亚",
-    "agency_en":"American Samoa Environmental Protection Agency",
-    "agency_cn":"美属萨摩亚环境保护局",
-    "website":"https:\/\/www.epa.as.gov\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Northern Mariana Islands",
-    "country_cn":"北马里亚纳群岛",
-    "agency_en":"Division of Environmental Quality",
-    "agency_cn":"环境质量司",
-    "website":"https:\/\/www.deq.gov.mp\/",
-    "region":"大洋洲",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sint Maarten",
-    "country_cn":"荷属圣马丁",
-    "agency_en":"Ministry of Public Housing, Spatial Planning, Environment and Infrastructure (VROMI)",
-    "agency_cn":"公共住房、空间规划、环境与基础设施部",
-    "website":"http:\/\/www.sintmaartengov.org\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Barthélemy",
-    "country_cn":"圣巴泰勒米",
-    "agency_en":"Territorial Environment Agency",
-    "agency_cn":"地方环境局",
-    "website":"https:\/\/www.comstbarth.fr\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saint Martin",
-    "country_cn":"法属圣马丁",
-    "agency_en":"Department of Environment",
-    "agency_cn":"环境部",
-    "website":"https:\/\/www.com-saint-martin.fr\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Curacao",
-    "country_cn":"库拉索",
-    "agency_en":"Ministry of Health, Environment and Nature",
-    "agency_cn":"卫生、环境与自然部",
-    "website":"https:\/\/gobiernu.cw\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Bonaire",
-    "country_cn":"博内尔",
-    "agency_en":"Bonaire National Parks Foundation (STINAPA)",
-    "agency_cn":"博内尔国家公园基金会",
-    "website":"https:\/\/stinapabonaire.org\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Saba",
-    "country_cn":"萨巴",
-    "agency_en":"Public Entity Saba - Department of Planning and Public Works",
-    "agency_cn":"萨巴公共实体-规划与公共工程部",
-    "website":"https:\/\/www.sabagov.com\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Sint Eustatius",
-    "country_cn":"圣尤斯特歇斯",
-    "agency_en":"Public Entity St. Eustatius - Directorate of Economy and Infrastructure",
-    "agency_cn":"圣尤斯特歇斯公共实体-经济与基础设施局",
-    "website":"https:\/\/www.statiagovernment.com\/",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"Turks and Caicos Islands",
-    "country_cn":"特克斯和凯科斯群岛",
-    "agency_en":"Department of Environment and Coastal Resources",
-    "agency_cn":"环境与沿海资源部",
-    "website":"https:\/\/www.gov.tc\/dema",
-    "region":"加勒比海地区",
-    "has_official_website":"是"
-  },
-  {
-    "country_en":"French Southern and Antarctic Lands",
-    "country_cn":"法属南部和南极领地",
-    "agency_en":"French Southern and Antarctic Lands Authority",
-    "agency_cn":"法属南部和南极领地管理局",
-    "website":"https:\/\/taaf.fr\/",
-    "region":"南极洲",
-    "has_official_website":"是"
+    "country_en": "Aruba",
+    "country_cn": "阿鲁巴",
+    "agency_en": "Directorate of Nature and Environment (DNM)",
+    "agency_cn": "自然与环境管理局",
+    "website": "http://www.dnmaruba.org",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "aw"
+  },
+  {
+    "country_en": "Afghanistan",
+    "country_cn": "阿富汗",
+    "agency_en": "National Environmental Protection Agency (NEPA)",
+    "agency_cn": "国家环境保护局",
+    "website": "https://www.nepa.gov.af",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "af"
+  },
+  {
+    "country_en": "Angola",
+    "country_cn": "安哥拉",
+    "agency_en": "Ministry of Environment (MINAMB)",
+    "agency_cn": "环境部",
+    "website": "http://www.minamb.gov.ao",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ao"
+  },
+  {
+    "country_en": "Anguilla",
+    "country_cn": "安圭拉",
+    "agency_en": "Department of Natural Resources (DNaR)",
+    "agency_cn": "自然资源部",
+    "website": "https://naturalresources.gov.ai/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "ai"
+  },
+  {
+    "country_en": "Åland Islands",
+    "country_cn": "奥兰群岛",
+    "agency_en": "Government of Åland",
+    "agency_cn": "奥兰政府",
+    "website": "https://www.regeringen.ax/",
+    "region": "欧洲（芬兰自治区）",
+    "has_official_website": "是",
+    "country_code": "ax"
+  },
+  {
+    "country_en": "Albania",
+    "country_cn": "阿尔巴尼亚",
+    "agency_en": "Ministry of Tourism and Environment",
+    "agency_cn": "旅游与环境部",
+    "website": "https://turizmi.gov.al/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "al"
+  },
+  {
+    "country_en": "Andorra",
+    "country_cn": "安道尔",
+    "agency_en": "Ministry of Environment, Agriculture and Sustainability",
+    "agency_cn": "环境、农业与可持续发展部",
+    "website": "https://www.govern.ad/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ad"
+  },
+  {
+    "country_en": "Antigua and Barbuda",
+    "country_cn": "安提瓜和巴布达",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "https://environment.gov.ag/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "ag"
+  },
+  {
+    "country_en": "Argentina",
+    "country_cn": "阿根廷",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.argentina.gob.ar/ambiente",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "ar"
+  },
+  {
+    "country_en": "Armenia",
+    "country_cn": "亚美尼亚",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.env.am/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "am"
+  },
+  {
+    "country_en": "Australia",
+    "country_cn": "澳大利亚",
+    "agency_en": "Department of Climate Change, Energy, the Environment and Water (DCCEEW)",
+    "agency_cn": "气候变化、能源、环境与水资源部",
+    "website": "https://www.dcceew.gov.au/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "au"
+  },
+  {
+    "country_en": "Austria",
+    "country_cn": "奥地利",
+    "agency_en": "Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology",
+    "agency_cn": "气候行动、环境、能源、交通、创新与技术联邦部",
+    "website": "https://www.bmk.gv.at/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "at"
+  },
+  {
+    "country_en": "Azerbaijan",
+    "country_cn": "阿塞拜疆",
+    "agency_en": "Ministry of Ecology and Natural Resources",
+    "agency_cn": "生态与自然资源部",
+    "website": "https://eco.gov.az/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "az"
+  },
+  {
+    "country_en": "Bahamas",
+    "country_cn": "巴哈马",
+    "agency_en": "Ministry of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://www.bahamas.gov.bs/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "bs"
+  },
+  {
+    "country_en": "Bahrain",
+    "country_cn": "巴林",
+    "agency_en": "Supreme Council for Environment",
+    "agency_cn": "最高环境委员会",
+    "website": "https://www.sce.gov.bh/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "bh"
+  },
+  {
+    "country_en": "Bangladesh",
+    "country_cn": "孟加拉国",
+    "agency_en": "Ministry of Environment, Forest and Climate Change",
+    "agency_cn": "环境、森林与气候变化部",
+    "website": "https://moefcc.gov.bd/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "bd"
+  },
+  {
+    "country_en": "Barbados",
+    "country_cn": "巴巴多斯",
+    "agency_en": "Ministry of Environment and National Beautification",
+    "agency_cn": "环境与国家美化部",
+    "website": "https://mesep.gov.bb/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "bb"
+  },
+  {
+    "country_en": "Belarus",
+    "country_cn": "白俄罗斯",
+    "agency_en": "Ministry of Natural Resources and Environmental Protection",
+    "agency_cn": "自然资源与环境保护部",
+    "website": "http://www.minpriroda.gov.by/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "by"
+  },
+  {
+    "country_en": "Belgium",
+    "country_cn": "比利时",
+    "agency_en": "Federal Public Service Health, Food Chain Safety and Environment",
+    "agency_cn": "联邦公共卫生、食品链安全与环境服务局",
+    "website": "https://www.health.belgium.be/en/environment",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "be"
+  },
+  {
+    "country_en": "Belize",
+    "country_cn": "伯利兹",
+    "agency_en": "Ministry of Sustainable Development, Climate Change and Disaster Risk Management",
+    "agency_cn": "可持续发展、气候变化与灾害风险管理部",
+    "website": "https://msdi.gov.bz/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "bz"
+  },
+  {
+    "country_en": "Benin",
+    "country_cn": "贝宁",
+    "agency_en": "Ministry of Living Environment and Sustainable Development",
+    "agency_cn": "生活环境与可持续发展部",
+    "website": "https://www.environnement.bj/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "bj"
+  },
+  {
+    "country_en": "Bermuda",
+    "country_cn": "百慕大",
+    "agency_en": "Department of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://www.gov.bm/department/environment-and-natural-resources",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "bm"
+  },
+  {
+    "country_en": "Bhutan",
+    "country_cn": "不丹",
+    "agency_en": "National Environment Commission",
+    "agency_cn": "国家环境委员会",
+    "website": "http://www.nec.gov.bt/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "bt"
+  },
+  {
+    "country_en": "Bolivia",
+    "country_cn": "玻利维亚",
+    "agency_en": "Ministry of Environment and Water",
+    "agency_cn": "环境与水资源部",
+    "website": "https://www.mmaya.gob.bo/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "bo"
+  },
+  {
+    "country_en": "Bosnia and Herzegovina",
+    "country_cn": "波黑",
+    "agency_en": "Ministry of Foreign Trade and Economic Relations - Environment Sector",
+    "agency_cn": "外交与经济关系部-环境部门",
+    "website": "http://www.mvteo.gov.ba/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ba"
+  },
+  {
+    "country_en": "Botswana",
+    "country_cn": "博茨瓦纳",
+    "agency_en": "Ministry of Environment and Tourism",
+    "agency_cn": "环境与旅游部",
+    "website": "https://www.mewt.gov.bw/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "bw"
+  },
+  {
+    "country_en": "Brazil",
+    "country_cn": "巴西",
+    "agency_en": "Ministry of the Environment and Climate Change",
+    "agency_cn": "环境与气候变化部",
+    "website": "https://www.gov.br/mma/pt-br",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "br"
+  },
+  {
+    "country_en": "Brunei",
+    "country_cn": "文莱",
+    "agency_en": "Department of Environment, Parks and Recreation (JASTRe)",
+    "agency_cn": "环境、公园与休闲部",
+    "website": "http://www.env.gov.bn/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "bn"
+  },
+  {
+    "country_en": "Bulgaria",
+    "country_cn": "保加利亚",
+    "agency_en": "Ministry of Environment and Water",
+    "agency_cn": "环境与水资源部",
+    "website": "https://www.moew.government.bg/en/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "bg"
+  },
+  {
+    "country_en": "Burkina Faso",
+    "country_cn": "布基纳法索",
+    "agency_en": "Ministry of Environment, Green Economy and Climate Change",
+    "agency_cn": "环境、绿色经济与气候变化部",
+    "website": "https://www.environnement.gov.bf/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "bf"
+  },
+  {
+    "country_en": "Burundi",
+    "country_cn": "布隆迪",
+    "agency_en": "Ministry of Environment, Agriculture and Livestock",
+    "agency_cn": "环境、农业与畜牧业部",
+    "website": "http://www.environnement.gov.bi/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "bi"
+  },
+  {
+    "country_en": "Cabo Verde",
+    "country_cn": "佛得角",
+    "agency_en": "Ministry of Agriculture and Environment",
+    "agency_cn": "农业与环境部",
+    "website": "https://www.governo.cv/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "cv"
+  },
+  {
+    "country_en": "Cambodia",
+    "country_cn": "柬埔寨",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.moeys.gov.kh/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "kh"
+  },
+  {
+    "country_en": "Cameroon",
+    "country_cn": "喀麦隆",
+    "agency_en": "Ministry of Environment, Nature Protection and Sustainable Development",
+    "agency_cn": "环境、自然保护与可持续发展部",
+    "website": "https://www.minepded.gov.cm/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "cm"
+  },
+  {
+    "country_en": "Canada",
+    "country_cn": "加拿大",
+    "agency_en": "Environment and Climate Change Canada (ECCC)",
+    "agency_cn": "加拿大环境与气候变化部",
+    "website": "https://www.canada.ca/en/environment-climate-change.html",
+    "region": "北美洲",
+    "has_official_website": "是",
+    "country_code": "ca"
+  },
+  {
+    "country_en": "Cayman Islands",
+    "country_cn": "开曼群岛",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "https://doe.ky/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "ky"
+  },
+  {
+    "country_en": "Central African Republic",
+    "country_cn": "中非共和国",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.facebook.com/MinistereDelEnvironnementCentrafrique/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "cf"
+  },
+  {
+    "country_en": "Chad",
+    "country_cn": "乍得",
+    "agency_en": "Ministry of Environment, Water and Fisheries",
+    "agency_cn": "环境、水与渔业部",
+    "website": "https://www.environnement.gouv.td/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "td"
+  },
+  {
+    "country_en": "Chile",
+    "country_cn": "智利",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://mma.gob.cl/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "cl"
+  },
+  {
+    "country_en": "China",
+    "country_cn": "中国",
+    "agency_en": "Ministry of Ecology and Environment",
+    "agency_cn": "生态环境部",
+    "website": "http://www.mee.gov.cn/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "cn"
+  },
+  {
+    "country_en": "Colombia",
+    "country_cn": "哥伦比亚",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.minambiente.gov.co/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "co"
+  },
+  {
+    "country_en": "Comoros",
+    "country_cn": "科摩罗",
+    "agency_en": "Ministry of Agriculture, Fisheries, Environment, Tourism and Handicrafts",
+    "agency_cn": "农业、渔业、环境、旅游与手工业部",
+    "website": "http://www.comores-online.com/mwezinet/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "km"
+  },
+  {
+    "country_en": "Congo",
+    "country_cn": "刚果（布）",
+    "agency_en": "Ministry of Environment, Sustainable Development and the Congo Basin",
+    "agency_cn": "环境、可持续发展与刚果盆地部",
+    "website": "https://www.environnement.gouv.cg/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "cg"
+  },
+  {
+    "country_en": "Cook Islands",
+    "country_cn": "库克群岛",
+    "agency_en": "National Environment Service",
+    "agency_cn": "国家环境局",
+    "website": "https://environment.gov.ck/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "ck"
+  },
+  {
+    "country_en": "Costa Rica",
+    "country_cn": "哥斯达黎加",
+    "agency_en": "Ministry of Environment and Energy (MINAE)",
+    "agency_cn": "环境与能源部",
+    "website": "https://www.minae.go.cr/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "cr"
+  },
+  {
+    "country_en": "Croatia",
+    "country_cn": "克罗地亚",
+    "agency_en": "Ministry of Economy and Sustainable Development",
+    "agency_cn": "经济与可持续发展部",
+    "website": "https://mzoe.gov.hr/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "hr"
+  },
+  {
+    "country_en": "Cuba",
+    "country_cn": "古巴",
+    "agency_en": "Ministry of Science, Technology and Environment",
+    "agency_cn": "科学、技术与环境部",
+    "website": "https://www.citma.gob.cu/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "cu"
+  },
+  {
+    "country_en": "Cyprus",
+    "country_cn": "塞浦路斯",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.moa.gov.cy/moa/environment/environment.nsf/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "cy"
+  },
+  {
+    "country_en": "Czech Republic",
+    "country_cn": "捷克",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.mzp.cz/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "cz"
+  },
+  {
+    "country_en": "Denmark",
+    "country_cn": "丹麦",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://en.mfvm.dk/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "dk"
+  },
+  {
+    "country_en": "Djibouti",
+    "country_cn": "吉布提",
+    "agency_en": "Ministry of Urban Planning, Environment and Tourism",
+    "agency_cn": "城市规划、环境与旅游部",
+    "website": "http://www.presidence.dj/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "dj"
+  },
+  {
+    "country_en": "Dominica",
+    "country_cn": "多米尼克",
+    "agency_en": "Ministry of Environment, Rural Modernization and Kalinago Upliftment",
+    "agency_cn": "环境、乡村现代化与加勒比原住民事务部",
+    "website": "https://dominica.gov.dm/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "dm"
+  },
+  {
+    "country_en": "Dominican Republic",
+    "country_cn": "多米尼加共和国",
+    "agency_en": "Ministry of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://ambiente.gob.do/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "do"
+  },
+  {
+    "country_en": "DR Congo",
+    "country_cn": "刚果（金）",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.environnement.gouv.cd/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "cd"
+  },
+  {
+    "country_en": "Ecuador",
+    "country_cn": "厄瓜多尔",
+    "agency_en": "Ministry of Environment, Water and Ecological Transition",
+    "agency_cn": "环境、水资源与生态转型部",
+    "website": "https://www.ambiente.gob.ec/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "ec"
+  },
+  {
+    "country_en": "Egypt",
+    "country_cn": "埃及",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.eeaa.gov.eg/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "eg"
+  },
+  {
+    "country_en": "El Salvador",
+    "country_cn": "萨尔瓦多",
+    "agency_en": "Ministry of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://www.marn.gob.sv/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "sv"
+  },
+  {
+    "country_en": "Equatorial Guinea",
+    "country_cn": "赤道几内亚",
+    "agency_en": "Ministry of Agriculture, Livestock, Forests and Environment",
+    "agency_cn": "农业、畜牧业、林业与环境部",
+    "website": "http://www.guineaecuatorialpress.com/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "gq"
+  },
+  {
+    "country_en": "Eritrea",
+    "country_cn": "厄立特里亚",
+    "agency_en": "Ministry of Land, Water and Environment",
+    "agency_cn": "土地、水与环境部",
+    "website": "http://www.shabait.com/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "er"
+  },
+  {
+    "country_en": "Estonia",
+    "country_cn": "爱沙尼亚",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://envir.ee/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ee"
+  },
+  {
+    "country_en": "Eswatini",
+    "country_cn": "埃斯瓦蒂尼",
+    "agency_en": "Ministry of Tourism and Environmental Affairs",
+    "agency_cn": "旅游与环境事务部",
+    "website": "https://www.gov.sz/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "sz"
+  },
+  {
+    "country_en": "Ethiopia",
+    "country_cn": "埃塞俄比亚",
+    "agency_en": "Environment, Forest and Climate Change Commission",
+    "agency_cn": "环境、森林与气候变化委员会",
+    "website": "http://www.efccc.gov.et/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "et"
+  },
+  {
+    "country_en": "Fiji",
+    "country_cn": "斐济",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.environment.gov.fj/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "fj"
+  },
+  {
+    "country_en": "Finland",
+    "country_cn": "芬兰",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://ym.fi/en/frontpage",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "fi"
+  },
+  {
+    "country_en": "France",
+    "country_cn": "法国",
+    "agency_en": "Ministry for the Ecological Transition and Territorial Cohesion",
+    "agency_cn": "生态转型与领土凝聚部",
+    "website": "https://www.ecologie.gouv.fr/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "fr"
+  },
+  {
+    "country_en": "Gabon",
+    "country_cn": "加蓬",
+    "agency_en": "Ministry of Environment and Forests",
+    "agency_cn": "环境与森林部",
+    "website": "http://www.environnement.gouv.ga/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ga"
+  },
+  {
+    "country_en": "Gambia",
+    "country_cn": "冈比亚",
+    "agency_en": "Ministry of Environment, Climate Change and Natural Resources",
+    "agency_cn": "环境、气候变化与自然资源部",
+    "website": "http://www.meccnrd.gov.gm/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "gm"
+  },
+  {
+    "country_en": "Georgia",
+    "country_cn": "格鲁吉亚",
+    "agency_en": "Ministry of Environmental Protection and Agriculture",
+    "agency_cn": "环境保护与农业部",
+    "website": "https://mepa.gov.ge/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "ge"
+  },
+  {
+    "country_en": "Germany",
+    "country_cn": "德国",
+    "agency_en": "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection",
+    "agency_cn": "联邦环境、自然保护、核安全与消费者保护部",
+    "website": "https://www.bmuv.de/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "de"
+  },
+  {
+    "country_en": "Ghana",
+    "country_cn": "加纳",
+    "agency_en": "Ministry of Environment, Science, Technology and Innovation",
+    "agency_cn": "环境、科学、技术与创新部",
+    "website": "https://mesti.gov.gh/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "gh"
+  },
+  {
+    "country_en": "Greece",
+    "country_cn": "希腊",
+    "agency_en": "Ministry of Environment and Energy",
+    "agency_cn": "环境与能源部",
+    "website": "https://ypen.gr/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "gr"
+  },
+  {
+    "country_en": "Greenland",
+    "country_cn": "格陵兰",
+    "agency_en": "Ministry of Nature, Environment and Research",
+    "agency_cn": "自然、环境与研究部",
+    "website": "https://naalakkersuisut.gl/",
+    "region": "北美洲",
+    "has_official_website": "是",
+    "country_code": "gl"
+  },
+  {
+    "country_en": "Grenada",
+    "country_cn": "格林纳达",
+    "agency_en": "Ministry of Climate Resilience, the Environment and Renewable Energy",
+    "agency_cn": "气候韧性、环境与可再生能源部",
+    "website": "https://gov.gd/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "gd"
+  },
+  {
+    "country_en": "Guatemala",
+    "country_cn": "危地马拉",
+    "agency_en": "Ministry of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://www.marn.gob.gt/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "gt"
+  },
+  {
+    "country_en": "Guinea",
+    "country_cn": "几内亚",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://medd.gov.gn/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "gn"
+  },
+  {
+    "country_en": "Guinea-Bissau",
+    "country_cn": "几内亚比绍",
+    "agency_en": "Ministry of Environment and Biodiversity",
+    "agency_cn": "环境与生物多样性部",
+    "website": "https://www.governogw.org/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "gw"
+  },
+  {
+    "country_en": "Guyana",
+    "country_cn": "圭亚那",
+    "agency_en": "Ministry of Agriculture - Environment Protection Agency",
+    "agency_cn": "农业部-环境保护局",
+    "website": "https://www.epaguyana.org/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "gy"
+  },
+  {
+    "country_en": "Haiti",
+    "country_cn": "海地",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.mde-h.gouv.ht/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "ht"
+  },
+  {
+    "country_en": "Honduras",
+    "country_cn": "洪都拉斯",
+    "agency_en": "Secretariat of Natural Resources and Environment",
+    "agency_cn": "自然资源与环境秘书处",
+    "website": "http://www.miambiente.gob.hn/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "hn"
+  },
+  {
+    "country_en": "Hungary",
+    "country_cn": "匈牙利",
+    "agency_en": "Ministry of Agriculture - Environment Protection",
+    "agency_cn": "农业部-环境保护",
+    "website": "https://kormany.hu/en/ministry-of-agriculture",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "hu"
+  },
+  {
+    "country_en": "Iceland",
+    "country_cn": "冰岛",
+    "agency_en": "Ministry for the Environment, Energy and Climate",
+    "agency_cn": "环境、能源与气候部",
+    "website": "https://www.government.is/ministries/ministry-for-the-environment-energy-and-climate/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "is"
+  },
+  {
+    "country_en": "India",
+    "country_cn": "印度",
+    "agency_en": "Ministry of Environment, Forest and Climate Change",
+    "agency_cn": "环境、森林与气候变化部",
+    "website": "https://moef.gov.in/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "in"
+  },
+  {
+    "country_en": "Indonesia",
+    "country_cn": "印度尼西亚",
+    "agency_en": "Ministry of Environment and Forestry",
+    "agency_cn": "环境与林业部",
+    "website": "https://www.menlhk.go.id/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "id"
+  },
+  {
+    "country_en": "Iran",
+    "country_cn": "伊朗",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境署",
+    "website": "https://www.doe.ir/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "ir"
+  },
+  {
+    "country_en": "Iraq",
+    "country_cn": "伊拉克",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.moen.gov.iq/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "iq"
+  },
+  {
+    "country_en": "Ireland",
+    "country_cn": "爱尔兰",
+    "agency_en": "Department of the Environment, Climate and Communications",
+    "agency_cn": "环境、气候与通信部",
+    "website": "https://www.gov.ie/en/organisation/department-of-the-environment-climate-and-communications/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ie"
+  },
+  {
+    "country_en": "Israel",
+    "country_cn": "以色列",
+    "agency_en": "Ministry of Environmental Protection",
+    "agency_cn": "环境保护部",
+    "website": "https://www.gov.il/en/departments/ministry_of_environmental_protection",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "il"
+  },
+  {
+    "country_en": "Italy",
+    "country_cn": "意大利",
+    "agency_en": "Ministry of the Environment and Energy Security",
+    "agency_cn": "环境与能源安全部",
+    "website": "https://www.mase.gov.it/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "it"
+  },
+  {
+    "country_en": "Jamaica",
+    "country_cn": "牙买加",
+    "agency_en": "Ministry of Economic Growth and Job Creation - Environment Division",
+    "agency_cn": "经济增长与就业创造部-环境司",
+    "website": "https://megjc.gov.jm/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "jm"
+  },
+  {
+    "country_en": "Japan",
+    "country_cn": "日本",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境省",
+    "website": "https://www.env.go.jp/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "jp"
+  },
+  {
+    "country_en": "Jordan",
+    "country_cn": "约旦",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.moenv.gov.jo/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "jo"
+  },
+  {
+    "country_en": "Kazakhstan",
+    "country_cn": "哈萨克斯坦",
+    "agency_en": "Ministry of Ecology and Natural Resources",
+    "agency_cn": "生态与自然资源部",
+    "website": "https://www.gov.kz/memleket/entities/ecogeo",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "kz"
+  },
+  {
+    "country_en": "Kenya",
+    "country_cn": "肯尼亚",
+    "agency_en": "Ministry of Environment, Climate Change and Forestry",
+    "agency_cn": "环境、气候变化与林业部",
+    "website": "https://environment.go.ke/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ke"
+  },
+  {
+    "country_en": "Kiribati",
+    "country_cn": "基里巴斯",
+    "agency_en": "Ministry of Environment, Lands and Agricultural Development",
+    "agency_cn": "环境、土地与农业发展部",
+    "website": "http://www.melad.gov.ki/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "ki"
+  },
+  {
+    "country_en": "Kuwait",
+    "country_cn": "科威特",
+    "agency_en": "Environment Public Authority",
+    "agency_cn": "环境公共事务局",
+    "website": "https://www.epa.org.kw/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "kw"
+  },
+  {
+    "country_en": "Kyrgyzstan",
+    "country_cn": "吉尔吉斯斯坦",
+    "agency_en": "State Agency for Environmental Protection and Forestry",
+    "agency_cn": "国家环境保护与林业局",
+    "website": "http://nature.gov.kg/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "kg"
+  },
+  {
+    "country_en": "Laos",
+    "country_cn": "老挝",
+    "agency_en": "Ministry of Natural Resources and Environment",
+    "agency_cn": "自然资源与环境部",
+    "website": "https://www.monre.gov.la/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "la"
+  },
+  {
+    "country_en": "Latvia",
+    "country_cn": "拉脱维亚",
+    "agency_en": "Ministry of Environmental Protection and Regional Development",
+    "agency_cn": "环境保护与区域发展部",
+    "website": "https://www.varam.gov.lv/en",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "lv"
+  },
+  {
+    "country_en": "Lebanon",
+    "country_cn": "黎巴嫩",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.moe.gov.lb/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "lb"
+  },
+  {
+    "country_en": "Lesotho",
+    "country_cn": "莱索托",
+    "agency_en": "Ministry of Tourism, Environment and Culture",
+    "agency_cn": "旅游、环境与文化部",
+    "website": "https://www.gov.ls/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ls"
+  },
+  {
+    "country_en": "Liberia",
+    "country_cn": "利比里亚",
+    "agency_en": "Environmental Protection Agency",
+    "agency_cn": "环境保护局",
+    "website": "https://epa.gov.lr/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "lr"
+  },
+  {
+    "country_en": "Libya",
+    "country_cn": "利比亚",
+    "agency_en": "Environment General Authority",
+    "agency_cn": "环境总局",
+    "website": "http://www.e-ga.org.ly/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ly"
+  },
+  {
+    "country_en": "Liechtenstein",
+    "country_cn": "列支敦士登",
+    "agency_en": "Office of Environment",
+    "agency_cn": "环境局",
+    "website": "https://www.llv.li/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "li"
+  },
+  {
+    "country_en": "Lithuania",
+    "country_cn": "立陶宛",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://am.lrv.lt/en/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "lt"
+  },
+  {
+    "country_en": "Luxembourg",
+    "country_cn": "卢森堡",
+    "agency_en": "Ministry of the Environment, Climate and Sustainable Development",
+    "agency_cn": "环境、气候与可持续发展部",
+    "website": "https://environnement.public.lu/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "lu"
+  },
+  {
+    "country_en": "Madagascar",
+    "country_cn": "马达加斯加",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.environnement.gov.mg/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "mg"
+  },
+  {
+    "country_en": "Malawi",
+    "country_cn": "马拉维",
+    "agency_en": "Ministry of Natural Resources and Climate Change",
+    "agency_cn": "自然资源与气候变化部",
+    "website": "https://www.nrcm.gov.mw/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "mw"
+  },
+  {
+    "country_en": "Malaysia",
+    "country_cn": "马来西亚",
+    "agency_en": "Ministry of Natural Resources, Environment and Climate Change",
+    "agency_cn": "自然资源、环境与气候变化部",
+    "website": "https://www.nrecc.gov.my/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "my"
+  },
+  {
+    "country_en": "Maldives",
+    "country_cn": "马尔代夫",
+    "agency_en": "Ministry of Environment, Climate Change and Technology",
+    "agency_cn": "环境、气候变化与技术部",
+    "website": "https://www.environment.gov.mv/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "mv"
+  },
+  {
+    "country_en": "Mali",
+    "country_cn": "马里",
+    "agency_en": "Ministry of Environment, Sanitation and Sustainable Development",
+    "agency_cn": "环境、卫生与可持续发展部",
+    "website": "https://www.environnement.gouv.ml/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ml"
+  },
+  {
+    "country_en": "Malta",
+    "country_cn": "马耳他",
+    "agency_en": "Ministry for the Environment, Energy and Enterprise",
+    "agency_cn": "环境、能源与企业部",
+    "website": "https://environment.gov.mt/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "mt"
+  },
+  {
+    "country_en": "Marshall Islands",
+    "country_cn": "马绍尔群岛",
+    "agency_en": "Office of Environmental Planning and Policy Coordination",
+    "agency_cn": "环境规划与政策协调办公室",
+    "website": "https://www.rmiocit.org/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "mh"
+  },
+  {
+    "country_en": "Mauritania",
+    "country_cn": "毛里塔尼亚",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.environnement.gov.mr/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "mr"
+  },
+  {
+    "country_en": "Mauritius",
+    "country_cn": "毛里求斯",
+    "agency_en": "Ministry of Environment, Solid Waste Management and Climate Change",
+    "agency_cn": "环境、固体废物管理与气候变化部",
+    "website": "https://environment.govmu.org/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "mu"
+  },
+  {
+    "country_en": "Mexico",
+    "country_cn": "墨西哥",
+    "agency_en": "Secretariat of Environment and Natural Resources (SEMARNAT)",
+    "agency_cn": "环境与自然资源秘书处",
+    "website": "https://www.gob.mx/semarnat",
+    "region": "北美洲",
+    "has_official_website": "是",
+    "country_code": "mx"
+  },
+  {
+    "country_en": "Micronesia",
+    "country_cn": "密克罗尼西亚",
+    "agency_en": "Department of Environment, Climate Change and Emergency Management",
+    "agency_cn": "环境、气候变化与应急管理部",
+    "website": "https://www.fsmgov.org/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "fm"
+  },
+  {
+    "country_en": "Moldova",
+    "country_cn": "摩尔多瓦",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://mediu.gov.md/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "md"
+  },
+  {
+    "country_en": "Monaco",
+    "country_cn": "摩纳哥",
+    "agency_en": "Department of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Equipment-Environment-and-Urban-Planning/Department-of-the-Environment",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "mc"
+  },
+  {
+    "country_en": "Mongolia",
+    "country_cn": "蒙古",
+    "agency_en": "Ministry of Environment and Tourism",
+    "agency_cn": "环境与旅游部",
+    "website": "http://www.mne.mn/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "mn"
+  },
+  {
+    "country_en": "Montenegro",
+    "country_cn": "黑山",
+    "agency_en": "Ministry of Ecology, Spatial Planning and Urbanism",
+    "agency_cn": "生态、空间规划与城市发展部",
+    "website": "https://www.gov.me/en/mepg",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "me"
+  },
+  {
+    "country_en": "Morocco",
+    "country_cn": "摩洛哥",
+    "agency_en": "Ministry of Energy Transition and Sustainable Development",
+    "agency_cn": "能源转型与可持续发展部",
+    "website": "http://www.mtedd.gov.ma/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ma"
+  },
+  {
+    "country_en": "Mozambique",
+    "country_cn": "莫桑比克",
+    "agency_en": "Ministry of Land and Environment",
+    "agency_cn": "土地与环境部",
+    "website": "http://www.mta.gov.mz/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "mz"
+  },
+  {
+    "country_en": "Myanmar",
+    "country_cn": "缅甸",
+    "agency_en": "Ministry of Natural Resources and Environmental Conservation",
+    "agency_cn": "自然资源与环境保护部",
+    "website": "http://www.moecaf.gov.mm/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "mm"
+  },
+  {
+    "country_en": "Namibia",
+    "country_cn": "纳米比亚",
+    "agency_en": "Ministry of Environment, Forestry and Tourism",
+    "agency_cn": "环境、林业与旅游部",
+    "website": "http://www.met.gov.na/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "na"
+  },
+  {
+    "country_en": "Nauru",
+    "country_cn": "瑙鲁",
+    "agency_en": "Department of Commerce, Industry and Environment",
+    "agency_cn": "商务、工业与环境部",
+    "website": "https://www.naurugov.nr/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "nr"
+  },
+  {
+    "country_en": "Nepal",
+    "country_cn": "尼泊尔",
+    "agency_en": "Ministry of Forests and Environment",
+    "agency_cn": "森林与环境部",
+    "website": "http://www.mofe.gov.np/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "np"
+  },
+  {
+    "country_en": "Netherlands",
+    "country_cn": "荷兰",
+    "agency_en": "Ministry of Infrastructure and Water Management",
+    "agency_cn": "基础设施与水管理部",
+    "website": "https://www.government.nl/ministries/ministry-of-infrastructure-and-water-management",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "nl"
+  },
+  {
+    "country_en": "New Zealand",
+    "country_cn": "新西兰",
+    "agency_en": "Ministry for the Environment",
+    "agency_cn": "环境部",
+    "website": "https://environment.govt.nz/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "nz"
+  },
+  {
+    "country_en": "Nicaragua",
+    "country_cn": "尼加拉瓜",
+    "agency_en": "Ministry of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://marena.gob.ni/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "ni"
+  },
+  {
+    "country_en": "Niger",
+    "country_cn": "尼日尔",
+    "agency_en": "Ministry of Environment and the Fight Against Desertification",
+    "agency_cn": "环境与防治荒漠化部",
+    "website": "https://www.environnement.gouv.ne/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ne"
+  },
+  {
+    "country_en": "Nigeria",
+    "country_cn": "尼日利亚",
+    "agency_en": "Federal Ministry of Environment",
+    "agency_cn": "联邦环境部",
+    "website": "https://environment.gov.ng/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ng"
+  },
+  {
+    "country_en": "North Korea",
+    "country_cn": "朝鲜",
+    "agency_en": "Ministry of Land and Environment Protection",
+    "agency_cn": "国土与环境保护部",
+    "website": "无官网",
+    "region": "亚洲",
+    "has_official_website": "否",
+    "country_code": "kp"
+  },
+  {
+    "country_en": "North Macedonia",
+    "country_cn": "北马其顿",
+    "agency_en": "Ministry of Environment and Physical Planning",
+    "agency_cn": "环境与物理规划部",
+    "website": "https://www.moepp.gov.mk/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "mk"
+  },
+  {
+    "country_en": "Norway",
+    "country_cn": "挪威",
+    "agency_en": "Ministry of Climate and Environment",
+    "agency_cn": "气候与环境部",
+    "website": "https://www.regjeringen.no/en/dep/kld/id668/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "no"
+  },
+  {
+    "country_en": "Oman",
+    "country_cn": "阿曼",
+    "agency_en": "Environment Authority",
+    "agency_cn": "环境局",
+    "website": "https://www.ea.gov.om/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "om"
+  },
+  {
+    "country_en": "Pakistan",
+    "country_cn": "巴基斯坦",
+    "agency_en": "Ministry of Climate Change and Environmental Coordination",
+    "agency_cn": "气候变化与环境协调部",
+    "website": "https://www.mocc.gov.pk/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "pk"
+  },
+  {
+    "country_en": "Palau",
+    "country_cn": "帕劳",
+    "agency_en": "Ministry of Natural Resources, Environment and Tourism",
+    "agency_cn": "自然资源、环境与旅游部",
+    "website": "https://www.palauoek.com/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "pw"
+  },
+  {
+    "country_en": "Palestine",
+    "country_cn": "巴勒斯坦",
+    "agency_en": "Environment Quality Authority",
+    "agency_cn": "环境质量局",
+    "website": "http://www.environment.pna.ps/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "ps"
+  },
+  {
+    "country_en": "Panama",
+    "country_cn": "巴拿马",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.miambiente.gob.pa/",
+    "region": "中美洲",
+    "has_official_website": "是",
+    "country_code": "pa"
+  },
+  {
+    "country_en": "Papua New Guinea",
+    "country_cn": "巴布亚新几内亚",
+    "agency_en": "Conservation and Environment Protection Authority",
+    "agency_cn": "保护与环境保护局",
+    "website": "https://www.cepapng.gov.pg/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "pg"
+  },
+  {
+    "country_en": "Paraguay",
+    "country_cn": "巴拉圭",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "https://www.mades.gov.py/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "py"
+  },
+  {
+    "country_en": "Peru",
+    "country_cn": "秘鲁",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.gob.pe/minam",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "pe"
+  },
+  {
+    "country_en": "Philippines",
+    "country_cn": "菲律宾",
+    "agency_en": "Department of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://www.denr.gov.ph/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "ph"
+  },
+  {
+    "country_en": "Poland",
+    "country_cn": "波兰",
+    "agency_en": "Ministry of Climate and Environment",
+    "agency_cn": "气候与环境部",
+    "website": "https://www.gov.pl/web/climate",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "pl"
+  },
+  {
+    "country_en": "Portugal",
+    "country_cn": "葡萄牙",
+    "agency_en": "Ministry of Environment and Climate Action",
+    "agency_cn": "环境与气候行动部",
+    "website": "https://www.portugal.gov.pt/en/gc22/government/ministries/ministry-of-environment-and-climate-action",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "pt"
+  },
+  {
+    "country_en": "Qatar",
+    "country_cn": "卡塔尔",
+    "agency_en": "Ministry of Environment and Climate Change",
+    "agency_cn": "环境与气候变化部",
+    "website": "https://www.mme.gov.qa/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "qa"
+  },
+  {
+    "country_en": "Republic of the Congo",
+    "country_cn": "刚果共和国",
+    "agency_en": "Ministry of Environment, Sustainable Development and the Congo Basin",
+    "agency_cn": "环境、可持续发展与刚果盆地部",
+    "website": "https://www.environnement.gouv.cg/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Romania",
+    "country_cn": "罗马尼亚",
+    "agency_en": "Ministry of Environment, Waters and Forests",
+    "agency_cn": "环境、水与森林部",
+    "website": "http://www.mmediu.ro/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ro"
+  },
+  {
+    "country_en": "Russia",
+    "country_cn": "俄罗斯",
+    "agency_en": "Ministry of Natural Resources and Environment",
+    "agency_cn": "自然资源与环境部",
+    "website": "http://www.mnr.gov.ru/",
+    "region": "欧洲/亚洲",
+    "has_official_website": "是",
+    "country_code": "ru"
+  },
+  {
+    "country_en": "Rwanda",
+    "country_cn": "卢旺达",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.environment.gov.rw/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "rw"
+  },
+  {
+    "country_en": "Saint Kitts and Nevis",
+    "country_cn": "圣基茨和尼维斯",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.environment.gov.kn/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "kn"
+  },
+  {
+    "country_en": "Saint Lucia",
+    "country_cn": "圣卢西亚",
+    "agency_en": "Department of Sustainable Development",
+    "agency_cn": "可持续发展部",
+    "website": "https://www.govt.lc/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "lc"
+  },
+  {
+    "country_en": "Saint Vincent and the Grenadines",
+    "country_cn": "圣文森特和格林纳丁斯",
+    "agency_en": "Ministry of Health, Wellness and the Environment",
+    "agency_cn": "健康、福利与环境部",
+    "website": "http://health.gov.vc/health/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "vc"
+  },
+  {
+    "country_en": "Samoa",
+    "country_cn": "萨摩亚",
+    "agency_en": "Ministry of Natural Resources and Environment",
+    "agency_cn": "自然资源与环境部",
+    "website": "https://www.mnre.gov.ws/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "ws"
+  },
+  {
+    "country_en": "San Marino",
+    "country_cn": "圣马力诺",
+    "agency_en": "Ministry of Territory and Environment",
+    "agency_cn": "国土与环境部",
+    "website": "http://www.ambiente.sm/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "sm"
+  },
+  {
+    "country_en": "Sao Tome and Principe",
+    "country_cn": "圣多美和普林西比",
+    "agency_en": "Directorate of Environment",
+    "agency_cn": "环境局",
+    "website": "http://www.gov.st/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "st"
+  },
+  {
+    "country_en": "Saudi Arabia",
+    "country_cn": "沙特阿拉伯",
+    "agency_en": "Ministry of Environment, Water and Agriculture",
+    "agency_cn": "环境、水与农业部",
+    "website": "https://www.mewa.gov.sa/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "sa"
+  },
+  {
+    "country_en": "Senegal",
+    "country_cn": "塞内加尔",
+    "agency_en": "Ministry of Environment and Sustainable Development",
+    "agency_cn": "环境与可持续发展部",
+    "website": "http://www.environnement.gouv.sn/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "sn"
+  },
+  {
+    "country_en": "Serbia",
+    "country_cn": "塞尔维亚",
+    "agency_en": "Ministry of Environmental Protection",
+    "agency_cn": "环境保护部",
+    "website": "https://www.ekologija.gov.rs/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "rs"
+  },
+  {
+    "country_en": "Seychelles",
+    "country_cn": "塞舌尔",
+    "agency_en": "Ministry of Agriculture, Climate Change and Environment",
+    "agency_cn": "农业、气候变化与环境部",
+    "website": "http://www.meecc.gov.sc/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "sc"
+  },
+  {
+    "country_en": "Sierra Leone",
+    "country_cn": "塞拉利昂",
+    "agency_en": "Environment Protection Agency",
+    "agency_cn": "环境保护局",
+    "website": "https://epa.gov.sl/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "sl"
+  },
+  {
+    "country_en": "Singapore",
+    "country_cn": "新加坡",
+    "agency_en": "Ministry of Sustainability and the Environment",
+    "agency_cn": "可持续发展与环境部",
+    "website": "https://www.mse.gov.sg/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "sg"
+  },
+  {
+    "country_en": "Slovakia",
+    "country_cn": "斯洛伐克",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.minzp.sk/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "sk"
+  },
+  {
+    "country_en": "Slovenia",
+    "country_cn": "斯洛文尼亚",
+    "agency_en": "Ministry of Natural Resources and Spatial Planning",
+    "agency_cn": "自然资源与空间规划部",
+    "website": "https://www.gov.si/en/state-authorities/ministries/ministry-of-natural-resources-and-spatial-planning/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "si"
+  },
+  {
+    "country_en": "Solomon Islands",
+    "country_cn": "所罗门群岛",
+    "agency_en": "Ministry of Environment, Climate Change, Disaster Management and Meteorology",
+    "agency_cn": "环境、气候变化、灾害管理与气象部",
+    "website": "http://www.mecdm.gov.sb/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "sb"
+  },
+  {
+    "country_en": "Somalia",
+    "country_cn": "索马里",
+    "agency_en": "Ministry of Environment and Climate Change",
+    "agency_cn": "环境与气候变化部",
+    "website": "https://moecc.gov.so/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "so"
+  },
+  {
+    "country_en": "South Africa",
+    "country_cn": "南非",
+    "agency_en": "Department of Forestry, Fisheries and the Environment",
+    "agency_cn": "林业、渔业与环境部",
+    "website": "https://www.dffe.gov.za/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "za"
+  },
+  {
+    "country_en": "South Korea",
+    "country_cn": "韩国",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://me.go.kr/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "kr"
+  },
+  {
+    "country_en": "South Sudan",
+    "country_cn": "南苏丹",
+    "agency_en": "Ministry of Environment and Forestry",
+    "agency_cn": "环境与林业部",
+    "website": "http://grss-moe.org/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ss"
+  },
+  {
+    "country_en": "Spain",
+    "country_cn": "西班牙",
+    "agency_en": "Ministry for the Ecological Transition and the Demographic Challenge",
+    "agency_cn": "生态转型与人口挑战部",
+    "website": "https://www.miteco.gob.es/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "es"
+  },
+  {
+    "country_en": "Sri Lanka",
+    "country_cn": "斯里兰卡",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.environmentmin.gov.lk/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "lk"
+  },
+  {
+    "country_en": "Sudan",
+    "country_cn": "苏丹",
+    "agency_en": "Higher Council for Environment and Natural Resources",
+    "agency_cn": "环境与自然资源高级委员会",
+    "website": "http://www.hcenr.gov.sd/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "sd"
+  },
+  {
+    "country_en": "Suriname",
+    "country_cn": "苏里南",
+    "agency_en": "Ministry of Spatial Planning and Environment",
+    "agency_cn": "空间规划与环境部",
+    "website": "https://www.gov.sr/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "sr"
+  },
+  {
+    "country_en": "Sweden",
+    "country_cn": "瑞典",
+    "agency_en": "Ministry of Climate and Enterprise",
+    "agency_cn": "气候与企业部",
+    "website": "https://www.government.se/government-of-sweden/ministry-of-climate-and-enterprise/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "se"
+  },
+  {
+    "country_en": "Switzerland",
+    "country_cn": "瑞士",
+    "agency_en": "Federal Office for the Environment (FOEN)",
+    "agency_cn": "联邦环境局",
+    "website": "https://www.bafu.admin.ch/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ch"
+  },
+  {
+    "country_en": "Syria",
+    "country_cn": "叙利亚",
+    "agency_en": "Ministry of Local Administration and Environment",
+    "agency_cn": "地方行政与环境部",
+    "website": "http://www.mola.gov.sy/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "sy"
+  },
+  {
+    "country_en": "Taiwan",
+    "country_cn": "台湾",
+    "agency_en": "Environmental Protection Administration",
+    "agency_cn": "环境保护署",
+    "website": "https://www.epa.gov.tw/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "tw"
+  },
+  {
+    "country_en": "Tajikistan",
+    "country_cn": "塔吉克斯坦",
+    "agency_en": "Committee for Environmental Protection",
+    "agency_cn": "环境保护委员会",
+    "website": "http://www.tajnature.tj/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "tj"
+  },
+  {
+    "country_en": "Tanzania",
+    "country_cn": "坦桑尼亚",
+    "agency_en": "Vice President’s Office - Union and Environment",
+    "agency_cn": "副总统办公室-联盟与环境事务",
+    "website": "https://www.vpo.go.tz/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "tz"
+  },
+  {
+    "country_en": "Thailand",
+    "country_cn": "泰国",
+    "agency_en": "Ministry of Natural Resources and Environment",
+    "agency_cn": "自然资源与环境部",
+    "website": "https://www.mnre.go.th/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "th"
+  },
+  {
+    "country_en": "Timor-Leste",
+    "country_cn": "东帝汶",
+    "agency_en": "Secretary of State for the Environment",
+    "agency_cn": "环境国务秘书处",
+    "website": "https://www.gpm.tl/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "tl"
+  },
+  {
+    "country_en": "Togo",
+    "country_cn": "多哥",
+    "agency_en": "Ministry of Environment and Forest Resources",
+    "agency_cn": "环境与森林资源部",
+    "website": "https://www.environnement.gouv.tg/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "tg"
+  },
+  {
+    "country_en": "Tonga",
+    "country_cn": "汤加",
+    "agency_en": "Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications",
+    "agency_cn": "气象、能源、信息、灾害管理、环境、气候变化与通信部",
+    "website": "http://www.met.gov.to/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "to"
+  },
+  {
+    "country_en": "Trinidad and Tobago",
+    "country_cn": "特立尼达和多巴哥",
+    "agency_en": "Ministry of Planning and Development - Environmental Policy and Planning Division",
+    "agency_cn": "规划与发展部-环境政策与规划司",
+    "website": "https://www.planning.gov.tt/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "tt"
+  },
+  {
+    "country_en": "Tunisia",
+    "country_cn": "突尼斯",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.environnement.tn/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "tn"
+  },
+  {
+    "country_en": "Turkey",
+    "country_cn": "土耳其",
+    "agency_en": "Ministry of Environment, Urbanization and Climate Change",
+    "agency_cn": "环境、城市化与气候变化部",
+    "website": "https://csb.gov.tr/",
+    "region": "亚洲/欧洲",
+    "has_official_website": "是",
+    "country_code": "tr"
+  },
+  {
+    "country_en": "Turkmenistan",
+    "country_cn": "土库曼斯坦",
+    "agency_en": "Ministry of Agriculture and Environmental Protection",
+    "agency_cn": "农业与环境保护部",
+    "website": "http://www.minagri.gov.tm/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "tm"
+  },
+  {
+    "country_en": "Tuvalu",
+    "country_cn": "图瓦卢",
+    "agency_en": "Ministry of Public Works, Infrastructure, Environment, Labour, Meteorology and Disaster",
+    "agency_cn": "公共工程、基础设施、环境、劳动、气象与灾害部",
+    "website": "http://www.tuvalu-government.tv/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "tv"
+  },
+  {
+    "country_en": "Uganda",
+    "country_cn": "乌干达",
+    "agency_en": "Ministry of Water and Environment",
+    "agency_cn": "水资源与环境部",
+    "website": "https://www.mwe.go.ug/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "ug"
+  },
+  {
+    "country_en": "Ukraine",
+    "country_cn": "乌克兰",
+    "agency_en": "Ministry of Environmental Protection and Natural Resources",
+    "agency_cn": "环境保护与自然资源部",
+    "website": "https://mepr.gov.ua/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "ua"
+  },
+  {
+    "country_en": "United Arab Emirates",
+    "country_cn": "阿拉伯联合酋长国",
+    "agency_en": "Ministry of Climate Change and Environment",
+    "agency_cn": "气候变化与环境部",
+    "website": "https://www.moccae.gov.ae/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "ae"
+  },
+  {
+    "country_en": "United Kingdom",
+    "country_cn": "英国",
+    "agency_en": "Department for Environment, Food and Rural Affairs (DEFRA)",
+    "agency_cn": "环境、食品与农村事务部",
+    "website": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "gb"
+  },
+  {
+    "country_en": "United States",
+    "country_cn": "美国",
+    "agency_en": "United States Environmental Protection Agency (EPA)",
+    "agency_cn": "美国环境保护署",
+    "website": "https://www.epa.gov/",
+    "region": "北美洲",
+    "has_official_website": "是",
+    "country_code": "us"
+  },
+  {
+    "country_en": "Uruguay",
+    "country_cn": "乌拉圭",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.gub.uy/ministerio-ambiente/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "uy"
+  },
+  {
+    "country_en": "Uzbekistan",
+    "country_cn": "乌兹别克斯坦",
+    "agency_en": "State Committee for Ecology and Environmental Protection",
+    "agency_cn": "生态与环境保护国家委员会",
+    "website": "http://eco.gov.uz/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "uz"
+  },
+  {
+    "country_en": "Vanuatu",
+    "country_cn": "瓦努阿图",
+    "agency_en": "Ministry of Climate Change Adaptation, Meteorology, Geo-Hazards, Environment and Energy",
+    "agency_cn": "气候变化适应、气象、地质灾害、环境与能源部",
+    "website": "https://www.mcc.gov.vu/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "vu"
+  },
+  {
+    "country_en": "Vatican City",
+    "country_cn": "梵蒂冈",
+    "agency_en": "Governorate of Vatican City State - Directorate of Infrastructure and Services",
+    "agency_cn": "梵蒂冈城国政府-基础设施与服务局",
+    "website": "http://www.vatican.va/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "va"
+  },
+  {
+    "country_en": "Venezuela",
+    "country_cn": "委内瑞拉",
+    "agency_en": "Ministry of Ecosocialism",
+    "agency_cn": "生态社会主义部",
+    "website": "http://www.minec.gob.ve/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": "ve"
+  },
+  {
+    "country_en": "Vietnam",
+    "country_cn": "越南",
+    "agency_en": "Ministry of Natural Resources and Environment",
+    "agency_cn": "自然资源与环境部",
+    "website": "http://www.monre.gov.vn/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "vn"
+  },
+  {
+    "country_en": "Yemen",
+    "country_cn": "也门",
+    "agency_en": "Ministry of Water and Environment",
+    "agency_cn": "水资源与环境部",
+    "website": "http://www.mowe-ye.org/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "ye"
+  },
+  {
+    "country_en": "Zambia",
+    "country_cn": "赞比亚",
+    "agency_en": "Ministry of Green Economy and Environment",
+    "agency_cn": "绿色经济与环境部",
+    "website": "https://www.mgee.gov.zm/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "zm"
+  },
+  {
+    "country_en": "Zimbabwe",
+    "country_cn": "津巴布韦",
+    "agency_en": "Ministry of Environment, Climate, Tourism and Hospitality Industry",
+    "agency_cn": "环境、气候、旅游与酒店业部",
+    "website": "http://www.mecthi.gov.zw/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": "zw"
+  },
+  {
+    "country_en": "Abkhazia",
+    "country_cn": "阿布哈兹",
+    "agency_en": "State Committee for Ecology and Environmental Protection",
+    "agency_cn": "生态与环境保护国家委员会",
+    "website": "无官网",
+    "region": "亚洲",
+    "has_official_website": "否",
+    "country_code": ""
+  },
+  {
+    "country_en": "Kosovo",
+    "country_cn": "科索沃",
+    "agency_en": "Ministry of Environment, Spatial Planning and Infrastructure",
+    "agency_cn": "环境、空间规划与基础设施部",
+    "website": "https://mmphi.rks-gov.net/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": "xk"
+  },
+  {
+    "country_en": "Northern Cyprus",
+    "country_cn": "北塞浦路斯",
+    "agency_en": "Ministry of Tourism, Culture, Youth and Environment",
+    "agency_cn": "旅游、文化、青年与环境部",
+    "website": "http://www.mtc.gov.ct.tr/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": "cy"
+  },
+  {
+    "country_en": "Somaliland",
+    "country_cn": "索马里兰",
+    "agency_en": "Ministry of Environment and Rural Development",
+    "agency_cn": "环境与农村发展部",
+    "website": "https://moerd.govsomaliland.org/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "South Ossetia",
+    "country_cn": "南奥塞梯",
+    "agency_en": "Committee for Environmental Protection",
+    "agency_cn": "环境保护委员会",
+    "website": "无官网",
+    "region": "亚洲",
+    "has_official_website": "否",
+    "country_code": ""
+  },
+  {
+    "country_en": "Western Sahara",
+    "country_cn": "西撒哈拉",
+    "agency_en": "Ministry of Environment",
+    "agency_cn": "环境部",
+    "website": "无官网",
+    "region": "非洲",
+    "has_official_website": "否",
+    "country_code": ""
+  },
+  {
+    "country_en": "Cook Islands",
+    "country_cn": "库克群岛",
+    "agency_en": "National Environment Service",
+    "agency_cn": "国家环境局",
+    "website": "https://environment.gov.ck/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "ck"
+  },
+  {
+    "country_en": "Niue",
+    "country_cn": "纽埃",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.environment.gov.nu/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "nu"
+  },
+  {
+    "country_en": "Tokelau",
+    "country_cn": "托克劳",
+    "agency_en": "Department of Natural Resources",
+    "agency_cn": "自然资源部",
+    "website": "https://www.tokelau.org.nz/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": "tk"
+  },
+  {
+    "country_en": "Guam",
+    "country_cn": "关岛",
+    "agency_en": "Guam Environmental Protection Agency",
+    "agency_cn": "关岛环境保护局",
+    "website": "https://epa.guam.gov/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Puerto Rico",
+    "country_cn": "波多黎各",
+    "agency_en": "Puerto Rico Department of Natural and Environmental Resources",
+    "agency_cn": "波多黎各自然与环境资源部",
+    "website": "https://www.drna.pr.gov/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "New Caledonia",
+    "country_cn": "新喀里多尼亚",
+    "agency_en": "Government of New Caledonia - Environment Directorate",
+    "agency_cn": "新喀里多尼亚政府-环境局",
+    "website": "https://gouv.nc/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "French Polynesia",
+    "country_cn": "法属波利尼西亚",
+    "agency_en": "Ministry of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.service-public.pf/direction-de-lenvironnement/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Greenland",
+    "country_cn": "格陵兰",
+    "agency_en": "Ministry of Nature, Environment and Research",
+    "agency_cn": "自然、环境与研究部",
+    "website": "https://naalakkersuisut.gl/",
+    "region": "北美洲",
+    "has_official_website": "是",
+    "country_code": "gl"
+  },
+  {
+    "country_en": "Hong Kong",
+    "country_cn": "香港",
+    "agency_en": "Environmental Protection Department",
+    "agency_cn": "环境保护署",
+    "website": "https://www.epd.gov.hk/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Macau",
+    "country_cn": "澳门",
+    "agency_en": "Environmental Protection Bureau",
+    "agency_cn": "环境保护局",
+    "website": "https://www.dspa.gov.mo/",
+    "region": "亚洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Faroe Islands",
+    "country_cn": "法罗群岛",
+    "agency_en": "Environment Agency",
+    "agency_cn": "环境局",
+    "website": "https://www.umhvoryrki.fo/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Aruba",
+    "country_cn": "阿鲁巴",
+    "agency_en": "Directorate of Nature and Environment (DNM)",
+    "agency_cn": "自然与环境管理局",
+    "website": "http://www.dnmaruba.org/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "aw"
+  },
+  {
+    "country_en": "Bermuda",
+    "country_cn": "百慕大",
+    "agency_en": "Department of Environment and Natural Resources",
+    "agency_cn": "环境与自然资源部",
+    "website": "https://www.gov.bm/department/environment-and-natural-resources",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "bm"
+  },
+  {
+    "country_en": "Cayman Islands",
+    "country_cn": "开曼群岛",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "https://doe.ky/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "ky"
+  },
+  {
+    "country_en": "British Virgin Islands",
+    "country_cn": "英属维尔京群岛",
+    "agency_en": "Conservation and Fisheries Department",
+    "agency_cn": "保护与渔业部",
+    "website": "http://www.bvi.gov.vg/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Montserrat",
+    "country_cn": "蒙特塞拉特",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "http://www.environment.gov.ms/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Anguilla",
+    "country_cn": "安圭拉",
+    "agency_en": "Department of Natural Resources",
+    "agency_cn": "自然资源部",
+    "website": "https://naturalresources.gov.ai/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": "ai"
+  },
+  {
+    "country_en": "Falkland Islands",
+    "country_cn": "福克兰群岛",
+    "agency_en": "Environmental Planning Department",
+    "agency_cn": "环境规划部",
+    "website": "https://www.falklands.gov.fk/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Gibraltar",
+    "country_cn": "直布罗陀",
+    "agency_en": "Department of the Environment, Heritage and Climate Change",
+    "agency_cn": "环境、遗产与气候变化部",
+    "website": "https://www.gibraltar.gov.gi/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Isle of Man",
+    "country_cn": "马恩岛",
+    "agency_en": "Department of Environment, Food and Agriculture",
+    "agency_cn": "环境、食品与农业部",
+    "website": "https://www.gov.im/defa/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Jersey",
+    "country_cn": "泽西岛",
+    "agency_en": "Department of the Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.gov.je/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Guernsey",
+    "country_cn": "根西岛",
+    "agency_en": "Committee for the Environment and Infrastructure",
+    "agency_cn": "环境与基础设施委员会",
+    "website": "https://www.gov.gg/",
+    "region": "欧洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Martinique",
+    "country_cn": "马提尼克",
+    "agency_en": "Directorate of Environment, Planning and Housing",
+    "agency_cn": "环境、规划与住房局",
+    "website": "http://www.martinique.developpement-durable.gouv.fr/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Guadeloupe",
+    "country_cn": "瓜德罗普",
+    "agency_en": "Directorate of Environment, Planning and Housing",
+    "agency_cn": "环境、规划与住房局",
+    "website": "http://www.guadeloupe.developpement-durable.gouv.fr/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Réunion",
+    "country_cn": "留尼汪",
+    "agency_en": "Directorate of Environment, Planning and Housing",
+    "agency_cn": "环境、规划与住房局",
+    "website": "http://www.reunion.developpement-durable.gouv.fr/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Mayotte",
+    "country_cn": "马约特",
+    "agency_en": "Directorate of Environment, Planning and Housing",
+    "agency_cn": "环境、规划与住房局",
+    "website": "http://www.mayotte.developpement-durable.gouv.fr/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Saint Pierre and Miquelon",
+    "country_cn": "圣皮埃尔和密克隆",
+    "agency_en": "Territorial Environment Service",
+    "agency_cn": "地方环境局",
+    "website": "https://www.saint-pierre-et-miquelon.gouv.fr/",
+    "region": "北美洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Wallis and Futuna",
+    "country_cn": "瓦利斯和富图纳",
+    "agency_en": "Environment Service",
+    "agency_cn": "环境局",
+    "website": "https://www.wallis-et-futuna.gouv.fr/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Saint Helena",
+    "country_cn": "圣赫勒拿",
+    "agency_en": "Environment, Natural Resources and Planning Directorate",
+    "agency_cn": "环境、自然资源与规划局",
+    "website": "https://www.sainthelena.gov.sh/",
+    "region": "非洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "French Guiana",
+    "country_cn": "法属圭亚那",
+    "agency_en": "Directorate of Environment, Planning and Housing",
+    "agency_cn": "环境、规划与住房局",
+    "website": "http://www.guyane.developpement-durable.gouv.fr/",
+    "region": "南美洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "American Samoa",
+    "country_cn": "美属萨摩亚",
+    "agency_en": "American Samoa Environmental Protection Agency",
+    "agency_cn": "美属萨摩亚环境保护局",
+    "website": "https://www.epa.as.gov/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Northern Mariana Islands",
+    "country_cn": "北马里亚纳群岛",
+    "agency_en": "Division of Environmental Quality",
+    "agency_cn": "环境质量司",
+    "website": "https://www.deq.gov.mp/",
+    "region": "大洋洲",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Sint Maarten",
+    "country_cn": "荷属圣马丁",
+    "agency_en": "Ministry of Public Housing, Spatial Planning, Environment and Infrastructure (VROMI)",
+    "agency_cn": "公共住房、空间规划、环境与基础设施部",
+    "website": "http://www.sintmaartengov.org/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Saint Barthélemy",
+    "country_cn": "圣巴泰勒米",
+    "agency_en": "Territorial Environment Agency",
+    "agency_cn": "地方环境局",
+    "website": "https://www.comstbarth.fr/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Saint Martin",
+    "country_cn": "法属圣马丁",
+    "agency_en": "Department of Environment",
+    "agency_cn": "环境部",
+    "website": "https://www.com-saint-martin.fr/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Curacao",
+    "country_cn": "库拉索",
+    "agency_en": "Ministry of Health, Environment and Nature",
+    "agency_cn": "卫生、环境与自然部",
+    "website": "https://gobiernu.cw/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Bonaire",
+    "country_cn": "博内尔",
+    "agency_en": "Bonaire National Parks Foundation (STINAPA)",
+    "agency_cn": "博内尔国家公园基金会",
+    "website": "https://stinapabonaire.org/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Saba",
+    "country_cn": "萨巴",
+    "agency_en": "Public Entity Saba - Department of Planning and Public Works",
+    "agency_cn": "萨巴公共实体-规划与公共工程部",
+    "website": "https://www.sabagov.com/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Sint Eustatius",
+    "country_cn": "圣尤斯特歇斯",
+    "agency_en": "Public Entity St. Eustatius - Directorate of Economy and Infrastructure",
+    "agency_cn": "圣尤斯特歇斯公共实体-经济与基础设施局",
+    "website": "https://www.statiagovernment.com/",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "Turks and Caicos Islands",
+    "country_cn": "特克斯和凯科斯群岛",
+    "agency_en": "Department of Environment and Coastal Resources",
+    "agency_cn": "环境与沿海资源部",
+    "website": "https://www.gov.tc/dema",
+    "region": "加勒比海地区",
+    "has_official_website": "是",
+    "country_code": ""
+  },
+  {
+    "country_en": "French Southern and Antarctic Lands",
+    "country_cn": "法属南部和南极领地",
+    "agency_en": "French Southern and Antarctic Lands Authority",
+    "agency_cn": "法属南部和南极领地管理局",
+    "website": "https://taaf.fr/",
+    "region": "南极洲",
+    "has_official_website": "是",
+    "country_code": ""
   }
 ]
