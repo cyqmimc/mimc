@@ -107,14 +107,22 @@ createApp({
   },
   computed: {
     filteredCountries() {
-      return this.countries.filter(item => {
-        const matchesSearch = item.country_en.toLowerCase().includes(this.search.toLowerCase()) ||
-                              item.country_cn.includes(this.search) ||
-                              item.agency_en.toLowerCase().includes(this.search.toLowerCase()) ||
-                              item.agency_cn.includes(this.search);
-        const matchesRegion = this.regionFilter ? item.region === this.regionFilter : true;
-        return matchesSearch && matchesRegion;
-      });
+  const keyword = this.search.trim().toLowerCase();
+  return this.countries.filter(item => {
+    const fields = [
+      item.country_en,
+      item.country_cn,
+      item.agency_en,
+      item.agency_cn
+    ];
+    const matchesSearch = fields.some(field =>
+      field?.toLowerCase().includes(keyword)
+    );
+    const matchesRegion = this.regionFilter
+      ? item.region === this.regionFilter
+      : true;
+    return matchesSearch && matchesRegion;
+  });
     },
     paginatedCountries() {
       const start = (this.currentPage - 1) * this.pageSize;
