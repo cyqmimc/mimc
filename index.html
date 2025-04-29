@@ -82,7 +82,9 @@
         <span v-else class="text-gray-400">暂无官网</span>
       </p>
       <p class="mb-2"><strong>官网状态：</strong> {{ selected.has_official_website === '是' ? '正常' : '无官网' }}</p>
-      <p class="mb-2"><strong>官网语言：</strong> 暂未标注</p>
+      <p class="mb-2" v-if="selected.language">
+  <strong>官网语言：</strong> {{ selected.language }}
+</p>
       <p class="mb-2"><strong>最近更新：</strong> 暂未标注</p>
     </div>
   </div>
